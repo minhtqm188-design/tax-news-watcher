@@ -1,0 +1,33 @@
+name: Check tax news
+
+on:
+  schedule:
+    # 00:00 UTC every Monday = 07:00 (UTC+7) Vietnam time
+    - cron: "0 0 * * 1"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run tax news check
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python scripts/check_tax_news.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/tax_news.json
+          git diff --cached --quiet || git commit -m "chore: update tax news data [skip ci]"
+          git push
