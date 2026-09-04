@@ -98,13 +98,26 @@ def notify(new_items: list[dict]) -> None:
         print("NTFY_TOPIC not set, skipping notification.", file=sys.stderr)
         return
 
+    MAX_BODY_BYTES = 3500  # stay well under ntfy's ~4096 byte message cap
+
     if len(new_items) == 1:
         item = new_items[0]
         title = f"Tin thuế mới: {item['keyword']}"
         body = f"{item['title']}\n{item['link']}"
     else:
         title = f"{len(new_items)} tin thuế mới"
-        body = "\n\n".join(f"- {it['title']}\n  {it['link']}" for it in new_items)
+        lines = []
+        shown_count = 0
+        for it in new_items:
+            line = f"- {it['title']}\n  {it['link']}"
+            candidate = "\n\n".join(lines + [line])
+            if len(candidate.encode("utf-8")) > MAX_BODY_BYTES:
+                break
+            lines.append(line)
+            shown_count += 1
+        body = "\n\n".join(lines)
+        if shown_count < len(new_items):
+            body += f"\n\n... và {len(new_items) - shown_count} tin khác (xem data/tax_news.json trên repo)."
 
     # Use ntfy's JSON publish endpoint (not the header-based one) since headers
     # must be ASCII and our titles/messages contain Vietnamese diacritics.
