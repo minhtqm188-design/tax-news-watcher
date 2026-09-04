@@ -98,7 +98,6 @@ def notify(new_items: list[dict]) -> None:
         print("NTFY_TOPIC not set, skipping notification.", file=sys.stderr)
         return
 
-    url = f"{NTFY_SERVER.rstrip('/')}/{NTFY_TOPIC}"
     if len(new_items) == 1:
         item = new_items[0]
         title = f"Tin thuế mới: {item['keyword']}"
@@ -107,13 +106,16 @@ def notify(new_items: list[dict]) -> None:
         title = f"{len(new_items)} tin thuế mới"
         body = "\n\n".join(f"- {it['title']}\n  {it['link']}" for it in new_items)
 
+    # Use ntfy's JSON publish endpoint (not the header-based one) since headers
+    # must be ASCII and our titles/messages contain Vietnamese diacritics.
+    payload = json.dumps(
+        {"topic": NTFY_TOPIC, "title": title, "message": body},
+        ensure_ascii=False,
+    ).encode("utf-8")
     req = urllib.request.Request(
-        url,
-        data=body.encode("utf-8"),
-        headers={
-            "Title": title.encode("utf-8"),
-            "Content-Type": "text/plain; charset=utf-8",
-        },
+        NTFY_SERVER.rstrip("/") + "/",
+        data=payload,
+        headers={"Content-Type": "application/json; charset=utf-8"},
         method="POST",
     )
     with urllib.request.urlopen(req, timeout=20) as resp:
