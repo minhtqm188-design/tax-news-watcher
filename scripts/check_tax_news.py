@@ -10,6 +10,7 @@ import json
 import os
 import sys
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -125,14 +126,29 @@ def notify(new_items: list[dict]) -> None:
         {"topic": NTFY_TOPIC, "title": title, "message": body},
         ensure_ascii=False,
     ).encode("utf-8")
-    req = urllib.request.Request(
-        NTFY_SERVER.rstrip("/") + "/",
-        data=payload,
-        headers={"Content-Type": "application/json; charset=utf-8"},
-        method="POST",
-    )
-    with urllib.request.urlopen(req, timeout=20) as resp:
-        resp.read()
+    last_error = None
+    for attempt in range(3):
+        req = urllib.request.Request(
+            NTFY_SERVER.rstrip("/") + "/",
+            data=payload,
+            headers={"Content-Type": "application/json; charset=utf-8"},
+            method="POST",
+        )
+        try:
+            with urllib.request.urlopen(req, timeout=20) as resp:
+                resp.read()
+            return
+        except urllib.error.HTTPError as exc:
+            last_error = exc
+            detail = exc.read().decode("utf-8", "replace")
+            print(f"ntfy attempt {attempt + 1} failed: HTTP {exc.code} {detail}", file=sys.stderr)
+        except urllib.error.URLError as exc:
+            last_error = exc
+            print(f"ntfy attempt {attempt + 1} failed: {exc}", file=sys.stderr)
+        time.sleep(2 * (attempt + 1))
+
+    assert last_error is not None
+    raise last_error
 
 
 def main() -> None:
