@@ -1,4 +1,1777 @@
 {
-  "seen_ids": [],
-  "articles": []
+  "seen_ids": [
+    "0f3b5879866900fd",
+    "160cca83dd3852f5",
+    "cd0a7f20f0d688c0",
+    "659898e91d4762e6",
+    "5cf65c3186fcec73",
+    "baa65c3d9f717468",
+    "c63bb44abce8ad5e",
+    "81e0451f093a52be",
+    "020c2b299f4ce6f3",
+    "625707f0e047a536",
+    "7229f2436fcd855b",
+    "cfe17063ae39f2d4",
+    "ae8bad1dd5c273da",
+    "3ef5bf83311ab88f",
+    "1df0f8ac9010810a",
+    "096bf17158f30952",
+    "6bf1a144860a6895",
+    "f4a457dc1f93ef14",
+    "4b6c28a0f8235357",
+    "1d572abc21d87835",
+    "400480a680cfc8e1",
+    "03fa7ece26069395",
+    "e7d387bb79fa57cc",
+    "b42793632f9bb6a8",
+    "8fa1bfa1929cfe21",
+    "5bfe2de9f1b6aa26",
+    "f4e8c468dc9fe29c",
+    "29df025829137b27",
+    "c0c1f95ad64c1884",
+    "fc46e1417eb8cd5c",
+    "b28c89b2fb14b8b1",
+    "c564a29a73919ef5",
+    "466288ded230e000",
+    "11aa801e54f5c029",
+    "4ec8458564de8d2c",
+    "3c2224dce6c73bfe",
+    "39faaa7ecd0579c9",
+    "afb8dd53dcbe931e",
+    "6fdfcb33e922b19d",
+    "b55378199c8ad373",
+    "087f8ad0ffe327a4",
+    "8993a5026810053a",
+    "12f2381cd7227c04",
+    "93e9acc0ad003a16",
+    "625753986d903568",
+    "0ec46a7f57487209",
+    "e0580d13a479daa8",
+    "ed7ff50a101ba043",
+    "b1c8c7751c47c144",
+    "06a88fbd105d47e5",
+    "311599a56623e6a3",
+    "c993593669548819",
+    "7642f533342aba5e",
+    "bcb28cef2cfb0b0d",
+    "3e227270e5c94e9d",
+    "df3f26d40009049a",
+    "f5ba844f140a21bc",
+    "8e166c1cf09f1255",
+    "5bd666466741e082",
+    "75e890333d3e9b4f",
+    "9c0021667d92aa56",
+    "7a4d75747de311b4",
+    "9aa975a921f65b62",
+    "65dc402d93ebf446",
+    "a91b2841ce4e7924",
+    "067c53043b708a03",
+    "c350d3bfb05c4454",
+    "150b60d3fda7e854",
+    "510250c4722b2a1c",
+    "c86883aede22bf8e",
+    "44517af871567690",
+    "043e792dc3283630",
+    "ac222cc581e6ee20",
+    "faf21e197f327ec0",
+    "776b90fc411fb948",
+    "0783f51ffa746770",
+    "912d045daa0bbd27",
+    "9830dfa284e65c84",
+    "0d4e03a34babb8e6",
+    "8e33307edcca8f29",
+    "7aa006965535968a",
+    "887964c073f666fd",
+    "3677cb3d07288f4d",
+    "d736aa4835fdbbd5",
+    "2fab2a3a38ef3e5b",
+    "bf669b41920e288a",
+    "4f442250559acb78",
+    "f562633e0b59dbb8",
+    "5626ce028a6a9fe8",
+    "dd02624e77e271d0",
+    "3ed514340249355d",
+    "d0525204cc4fb9ed",
+    "b78cfeccfa7ec91f",
+    "072084b90c64a9f9",
+    "93dcc4f1a49c9968",
+    "01197722c64edd03",
+    "00aa35dd9651da36",
+    "1cb38a12ad463d90",
+    "b2e08b962f701b3a",
+    "b6d2b163d39c88d9",
+    "62b627a2e460979d",
+    "7c64c917e3529379",
+    "d79258e772e74950",
+    "2f3654749da75219",
+    "e1f28e1f66188052",
+    "cc079789b9a9a6b7",
+    "41bff871cd504baa",
+    "b2c315b506632bd6",
+    "ad6f8db6ebde1af2",
+    "de528704b91ad5b5",
+    "21b33d76290fb4a9",
+    "9b5a739f7a0ab113",
+    "e14e747ee3065cd4",
+    "0d6c6d2fcc5b0044",
+    "14f84abeb744eac2",
+    "6be14ca1b96f8b66",
+    "acaa35db992fed47",
+    "6fed55a6a24b773d",
+    "68e6007388577715",
+    "ca0af673519b9ad9",
+    "009cae766b6176ac",
+    "15e5acabae8d61ea",
+    "b8ef4da283606eca",
+    "37bcfb566a4a5d6c",
+    "bf4496e336a954cf",
+    "15dc5fa8648b87f7",
+    "afafae6721c3c5a1",
+    "8ddc1956e5150c73",
+    "65f93a4b54121bba",
+    "247bec4a3858f13b",
+    "6554dfb3f7352c61",
+    "13ad6d532bb1cefa",
+    "c8af41e7cbece06b",
+    "fa513607c672025e",
+    "d54aa1297b46b731",
+    "b36e8bf2cbd31d78",
+    "b25ec79340dd1e54",
+    "d37cb359c2730c1c",
+    "62f5793ab5d647b6",
+    "0e5605414dbe89c7",
+    "217a97a6588e2e44",
+    "b678fff6dfe39333",
+    "550ea6a354c4cde2",
+    "4c6c2a57eb9ea4a5",
+    "eb75534ca4a3223d",
+    "8814ece618f24452",
+    "57e3b9973626f52f",
+    "a16e4eea3ef37ac7",
+    "6c85396308dd5a5a",
+    "968d2342163161b0",
+    "edd117166f442b09",
+    "ee7feb2b18b8b7aa",
+    "a879aad18f75233e",
+    "030a94985301e085",
+    "89229e38679e1009",
+    "bb0d5b3f2c0707cc",
+    "76d8433a96d57d46",
+    "31f56f349b5ff529",
+    "b18d9d30aa13d516",
+    "9006f07609e9e6e7",
+    "18d5bf085adc50b2",
+    "ddfc9223bca801b6",
+    "021e552360f23c9c",
+    "dbf5c107dacdde52",
+    "27f854e0e7df1b29",
+    "fc276729cd2e786d",
+    "1b693c551368f183",
+    "0e1a85fc0b32fcbb",
+    "5cac85af90ff6f5d",
+    "0145f48a059ae31a",
+    "fd9582ccdf0ab366",
+    "184f4e686fabc869",
+    "384c39433694ade5",
+    "d72f9e7533e41147",
+    "f03d07126c23bfd1",
+    "4f853c9cd46dd21f",
+    "95f1c947b4d0232e"
+  ],
+  "articles": [
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Người nộp thuế chủ động quyết toán thuế, tránh chờ quy định mới - CafeF",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ01zR3V0YWczMEhWc2Q3YXlLZVF3UFNmZFhEenJpWHdyZlpnVnpQYlNSRjZES1RzdFRUSlZ0bDFmYld6dENjVnN0eWJJaUJTQndvMENCMkRrZXZlQVZza0owbVFYaWVwT2lTQnkxWkJaNXpkLVVYREpYeEYtOHVVNUdTUEFURmttYWo1X0RUd2RaaFlHYkRUc2d3a0tpdm9BTFlrVw?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 08:15:00 GMT",
+      "source": "CafeF",
+      "id": "afb8dd53dcbe931e",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Bản tin công đoàn: Tiền thưởng 2.9 có phải chịu thuế thu nhập cá nhân không? - Laodong.vn",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSnhwSFF1dkY2UXh4d2lKMkc4ODhfeElGS3o3bHRNTzdWVUZWU3dkOE5QbksyMUVRU25CQTZXMlFubndvU0VXcHNQUTlieWMyWmdjUEwyd0RmTm8yaUd6eV9RMm9VdkU0WVY4YzFpNDMtbmhZUklQampCZlpDaFVJVHhUUFpSeC1CUG9BamtIWXVoUjdKV196UVBnM3JBdS1BMkxZdVFUQjhlck5hWnRj?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 00:45:00 GMT",
+      "source": "Laodong.vn",
+      "id": "0e1a85fc0b32fcbb",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Trung Quốc đánh thuế cổ tức, tiền thưởng của cá nhân nước ngoài - Báo Dân trí",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZUU0VWVHRm1IVDg0dkR5RGhTOTFLWVYwNUxtY1VFTUE3aUF6TUp6MHRxZmNiMG5CODNRSm45VG5mTEdBYk9SdGFkWXZ6THBNaUlFcFpIWlV1LVppcmVHM0hvZnFqQzVrc3p2Ym1XcjlLSkxrUUVlT1FOMHZwM0luNFhkYkZMa3RFZlFPbnhBSkVzdFMyNTNGT1dDQXdzcndQbG1WSk91Qlh6VDJaR1dUNDN1OVRidlQ2?oc=5",
+      "pub_date": "Wed, 02 Sep 2026 04:52:32 GMT",
+      "source": "Báo Dân trí",
+      "id": "1df0f8ac9010810a",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Doanh nghiệp được giảm 30% thuế: Số đã tạm nộp xử lý thế nào? - Tin tức 24h",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRHV3a09wc1FFOFlDaU5XNG5VWDFlajdZWk5Uc0JhYndyanBQNUFLenBRWEs2cHBVbEwzUXB3TUR1V1RxZTd3ZHBKYWhfQVNneGRFZm1rZDZ5SlVPZkpFNkdIYlBhMEVjWUNON3czanBobHVudW1YaTNaMGd1RVJlcXl3QlgzNEZxdGN6YmlicXh0MDQzeGNYNGh5cHJIUE9XeUtoNEhBRGJhaGZSRU9F?oc=5",
+      "pub_date": "Wed, 02 Sep 2026 22:00:00 GMT",
+      "source": "Tin tức 24h",
+      "id": "62f5793ab5d647b6",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Nghị quyết 43/2026/QH16 giảm thuế thu nhập cá nhân, thuế thu nhập doanh nghiệp năm 2026, 2027 - Báo Đại Đoàn Kết",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOEFCWVRqNWdHZmQ3MHZZc0J2eF8wdS1ZOUxsM1pvMHJNZlloVXh3eGRTR1ZoR3ItMnJrcnAxNlRNNkNuQ0hid2cwdFhLZmVVSnkteXNHUVJDRHIxR1I2V3dpNm1hbnh4dXVZMzdBV2RuYkhlOEY3NzZqeVVTWlJ0Tjg4LWlaVl92cWl0SDRxakJYN1UtVFdQZFUtN2UxZnBKQkFVQ1AzNTludm9PbE1qYjA1cW1iaTB0VFE?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 20:39:02 GMT",
+      "source": "Báo Đại Đoàn Kết",
+      "id": "12f2381cd7227c04",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Giảm 30% thuế TNDN, thuế TNCN từ kinh doanh của năm 2026 - 2027 - LuatVietnam",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZmlqZndyeEhHZlN4RFNNRmdTS1Q5LVpHQ0dPQmZHSkNIOVRXNFBnTFFOaVFKQjl2TWFqTkp0MFdEYlJtRWR3ZzNXMkVFUGhDcS1YSkhhSTV1QjJYWW9PVGRkNE5Bb2RjaWxXVE42TlJOM0pmWEhISzBZV0cwbzdLU2JMSl81eGFBZG43bnRRb1lVT1RUSUFzaElqVjVZMDlRNHpqLVVqYUUzWnVkODZHM1ZFNEY1M0ZJcGc?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 07:53:16 GMT",
+      "source": "LuatVietnam",
+      "id": "57e3b9973626f52f",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Trung Quốc khôi phục thuế 20% với cổ tức của cá nhân nước ngoài sau hơn 30 năm miễn - docnhanh.vn",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMjRYYkFKc1B0QklBZUEwMWpXcUhyc3NGZXE2UFRMbkdnU0lWa0xoSWk0LWhZQTlBY08yLUVLczJZVDRCZmhEemdRb1VtajJiOTBQRDYycnhrNDVaMVJaY05hRWx2MWJidUhkWFVyTGdOZVZMYUFaU2gwS0ZxVEZaRHhaSGk3Wnh3Z29CXzRzSjZuZ0dsbUpDZEctM2tyemRyVWdDajlGV2l1cHBBZU9zUDh4V1pyUnhDRk1peGU2TmxLQQ?oc=5",
+      "pub_date": "Wed, 02 Sep 2026 08:02:25 GMT",
+      "source": "docnhanh.vn",
+      "id": "020c2b299f4ce6f3",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Người nộp thuế chủ động khai, tạm nộp và quyết toán thuế tránh tâm lý lo ngại chờ quy định mới - Thời báo Tài chính Việt Nam",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeXBseENjc0dPN2I2NkVTWjNJNktuWTE0M1JrLVFCem1oeEI1bXVodWlVN2ZIczNkcnRqM3ZJb3FQT2ZsRy1wX2FnQ0tSNXdUWEdBTHZ3aERNb1l1U0tWTzVza0VBbWNaNE5mMDYta1BBRk5WSktUcFJwMFA3QmlLbnZHNFlJamhScGlFWEt2UGxNdVFGT3dIdUdraXdyUkRFWVl5MDdiYVd1VDFfVGpkOUtkUm1aUUFCVWVuRG4taGY2bXhfSzVlZFRJUDY4cFlBMGd2dnRB?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 20:45:33 GMT",
+      "source": "Thời báo Tài chính Việt Nam",
+      "id": "c8af41e7cbece06b",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Nâng ngưỡng doanh thu lên 10 tỷ đồng: Hộ kinh doanh tạm nộp thuế thế nào trong lúc chờ luật mới? - nguoiquansat.vn",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWFowWlRIVnRFcE9jc1pQOTVrQ1habjRwT3o1RVJZaHVrelpUV1B1WDFWRTZYTldlZlJjNy1NZHdPcllHQ3NmWHZtUVNwS2J1UEZxaXN1OEZlRmY5VmVoYjdwRXFIYmtkSzNzNFYtcVk5ZUN1OG44ZmptaTJOaVRNcTI2Q2JERVEySzlBM094UmZuOEE0T1lJR1NWdEJHdm1SZ2lyd2dCdlhGN3dRalZMYjZIWW91MlVqNmcwX1F3WDE0NmExM2NheXNB?oc=5",
+      "pub_date": "Tue, 01 Sep 2026 13:56:01 GMT",
+      "source": "nguoiquansat.vn",
+      "id": "afafae6721c3c5a1",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Giảm 30% thuế thu nhập cá nhân, doanh nghiệp trong năm 2026-2027 - Báo Sức Khỏe và Đời Sống",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdlhLZU56b1R0SEZqcllUb18zX2NyX3pDdXI0UzFUSE1tQ2JFRzZLTFpELWpOUXNOcFJpUFR0eWdFMzBLbXJCM2E4SkY0UGRTaHBaZHJqU1pGNkprU1RGR0hoQUo3bUROYVVqUlZjSU5relN1WEJnbS1pSTJPa2xkZldkRUdxZTF3VmdGTWNxMU5wV1BVRnVzTlBvVWc5NnYwZEUzcW5uMDZUMjVvalZxSw?oc=5",
+      "pub_date": "Wed, 02 Sep 2026 00:34:00 GMT",
+      "source": "Báo Sức Khỏe và Đời Sống",
+      "id": "4ec8458564de8d2c",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Hướng dẫn hộ, cá nhân kinh doanh thực hiện tạm nộp thuế thu nhập cá nhân - Báo Thanh tra",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZFlXOW9PWl9zdWt0N2xkUXRjdWg4a1N5dXRLWEY4MTIxeHE0ekN1QjVXV0FDb3RPbnozV1lhcWlBZF9HcVRaMzJCVlpEcThkZXllbkNSWkJpYUVkTHpjNEIzVjdqck1ONlE1UVpOWDN3UWsxNEY3NUcweW9QWmstUkpQSkZsV0EzMFFEc2lxTE1rNVhBSTFJV1V3TV82ZTNXT01uZ3lXdHlJVHl3RXV3aGhUZ3JTNGY0TURPRnhjeENpdUNaa0RJazZR?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 10:28:38 GMT",
+      "source": "Báo Thanh tra",
+      "id": "d0525204cc4fb9ed",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Khoản phụ cấp, trợ cấp nào được miễn thuế TNCN theo quy định mới năm 2026? - LuatVietnam",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ2VSWWN3Nkw3N1RLOHhKVmR6VnVKb3V0M3UwdkUwNk90ZXBydGdKSmNVMjhEajdLeGNpTG85bFVldW0xRFlUenBxcHV1cU41cXlsZm5heHFoU1ZoakNKUExqOTRqZGxlRC1DQnpKaE95T2U5MzJpX0xicThIRk9GUEQyYmtjc2xEYTB4VE1QX0lDWng2bENvd1haRG9jbVFJdkx6SGduT3JLWUNj?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 02:59:05 GMT",
+      "source": "LuatVietnam",
+      "id": "bb0d5b3f2c0707cc",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Thuế tỉnh Quảng Trị hướng dẫn cá nhân, hộ kinh doanh tạm nộp thuế TNCN theo phương pháp đơn giản - Tạp chí Kinh tế - Tài chính Online",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObVExdXVEYk1SWHF5ekNZQkE0eDJNY0tSdTlvSkUtNmtFRlR2T2Zjc2Y1dTctaHpaZ21OQVRycDNyV04yX3FBSXdOT2ZuVlZOTk9hbHNFV0NVNWNlXzktRmlYWms5bXkxSnVnSlZ4NW5VWXVzZzE4V1p1YkJRZzh6VEZXaWJLWVRVWVpqUi1oOW03SGx2SnpyeG1ieTYzZzlOZDJaRDdHazR3M2Fudk1Fd3o0eWdsRXF2YUEzV0U5MnpPNV9rNXJOVVYwVmxxaDR3dXFCbjJtckFnNEZHYUJKcWF1TUlaQQ?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 08:24:37 GMT",
+      "source": "Tạp chí Kinh tế - Tài chính Online",
+      "id": "d736aa4835fdbbd5",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Đề xuất quy định mới về ưu đãi thuế thu nhập doanh nghiệp - baochinhphu.vn",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbXBhSTVPNDQwNGRWWThzM05CXzhLRDJJb2Z5V3FwOWg2VDF6MVJSNUpNM0NySUdwZElGMmk2bXNtc20tRVd0UUlaSWhyRVJ6d2pDWFdiam5PLVA2Q1M1ZnlpNXYyVXdLMmpnVnhWc0E3VUNudW5Fd2ZWTWc1eUtzNmxzVlNDRW5GLTZQTDU4WWRNdHBqVnFCaDhJY0d1cWxQbWFsMHFR?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 09:28:00 GMT",
+      "source": "baochinhphu.vn",
+      "id": "39faaa7ecd0579c9",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Hướng dẫn tạm nộp thuế thu nhập cá nhân trong thời gian chờ sửa đổi quy định về phương pháp tính thuế - xaydungchinhsach.chinhphu.vn",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOcjV4cnVMSUhCZG5wRE5maEs1MHE2UmpaTEZLUnBCWFJISlRpRUF4Mmk2NHcwTVlrTWNSaVFYN1ktdll1S2pkc3J6NjZidl9pclpQakNTWTZkeUhaMUs0N2JHUjFGQ1RUeUdKeC1DUVdodnlxcXF3OUJjbkRrR2s0S2MtWDdhMTh2MXJBU1BobHE3T3VJYTJlNlVZdjF4U0M1RGNMRmZMek0zd0NndkU2ZXllbi1hbDYzaENfZV9UN1ZNZkNncHpFUHNZbWk4T1N5VGxwRFNjdmJQSWo2M2RxRDRBM3JfZ0Q3N3U3WHA5QnhORC1waGRvTTZ6UWI3Ny1PeHN4SlI1MFZlMjFrOWc?oc=5",
+      "pub_date": "Sun, 30 Aug 2026 04:40:00 GMT",
+      "source": "xaydungchinhsach.chinhphu.vn",
+      "id": "4f442250559acb78",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "“Tiếp sức” cho cá nhân, doanh nghiệp từ chính sách thuế - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTnJzOVFZblJ2SUdaZC1hTjBjeUdlek9aSWtjcGk1enFPQTdqdG1MeW0zX2dDbDJDYkNGdzJ1UnQ0LXZ4aXV2Wk5KbW9PakExSmZaUnhOSHpCWDZoTUhlQjZOaTMtZ2JJYnR0TDU5YXlnWXd6dUE2MUtoYW4xdFlGcg?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 22:08:39 GMT",
+      "source": "Vietnam.vn",
+      "id": "29df025829137b27",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Hướng dẫn hộ, cá nhân kinh doanh tạm nộp thuế thu nhập cá nhân trong thời gian chờ nâng ngưỡng doanh thu - lsvn.vn",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQ0k0ZHNLTVVVVjFfVmdfNE41dGxQbmRydDVWbzVqZG8yZVROYW44Zkp4Wmtpc2RjZHBMc3BLMUVBeFhod21yMmJTUWo5WEtSNGx2NmFDYUtVNVJjNVlqUU4tSXE2ZzZQemFJdVVLYmc5NWVYeTA4bFh3MkFfdDl1VTlsbUlybDBudlBBSk9ONU1oQUV3STVlTUZ6TDc2RXJIUEJiNnlnd1hlaVBfVEowVlBid19TRjdyUjBvRlRVc05OWFBiOUFBQkx3OGs?oc=5",
+      "pub_date": "Mon, 31 Aug 2026 11:35:00 GMT",
+      "source": "lsvn.vn",
+      "id": "4f853c9cd46dd21f",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Giảm 30% thuế cả năm: Sẽ sớm có hướng dẫn cách tính toán - Báo Tuổi Trẻ",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZDZ6ZmdWLUYzZXdrNmo1U0Z2SE5YSzJUNTF5NVpuTW9mallpUU96b3AwT2RKVFZVejFUenREcE9DTUZMelNKMkE4Y21oc1N2UFJzMUtVNEEyQWdCWkY4c2RSV3ZYRElSTGlyTEF1eklaUy1JMHpGeF9fWXN3NW5aN192UEZySF8yNXRQN2RabkFvN0c3N1FLVGZkblo?oc=5",
+      "pub_date": "Mon, 31 Aug 2026 08:36:00 GMT",
+      "source": "Báo Tuổi Trẻ",
+      "id": "dd02624e77e271d0",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Giảm thuế thu nhập cá nhân và thuế thu nhập doanh nghiệp - Báo Thanh Hóa",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3JqX2hDTkdaWkdTRjRuR3I2SmtaMDBDM1lTU3hUS1ZFMUNPR28tZm9hck1EYVg5RlgyVXpfcDRoLUJsLVBaaEJLcWNmMVhpVEtzVmpvT3dKRHZRNVFrWGQzc3RSa3pJdHNHQUsteEI2Ym10WUhIU2hUMHNuMlNncnpCLWtJWkl5azRGQ093REs1RXcx?oc=5",
+      "pub_date": "Wed, 02 Sep 2026 05:50:00 GMT",
+      "source": "Báo Thanh Hóa",
+      "id": "b36e8bf2cbd31d78",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "\"Chốt\" giảm 30% thuế thu nhập cho cá nhân, doanh nghiệp nhỏ - Tạp chí Tài chính Doanh nghiệp",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaDhfX2NsNE9Ib19OYXQ4S29maWlJdHZHcHVEYXpyTU1IRUhaOWpoU2JXR1Z3TGF5azJ0UkY0XzhOY2FSWUxENFRGaWhEa0Z3ZHFvbnRIYkJvUlRTdmFid09seTJvdHRwRF9acUJVdHU5VW1jX0YxTDU3Wk1GazlXMm9SbHhoOUJzWERpSnBhSF8xOTVpM0MzVk9TbE0yaWY5VkZaNw?oc=5",
+      "pub_date": "Mon, 31 Aug 2026 02:01:00 GMT",
+      "source": "Tạp chí Tài chính Doanh nghiệp",
+      "id": "b678fff6dfe39333",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Giảm 30% thuế thu nhập cá nhân từ kinh doanh có doanh thu dưới 10 tỉ đồng - Laodong.vn",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOX01rS2dVUFFpeEhZZUV0WDh4Z3N4RkFHSVNBRWVOYVRDenhzOGtzSjc5ZnoybTBMQnFLYVplQlNmM3VTSGk2U1FfQmdLU2xuaWplSHlOLURjWUd4Qm1EM0J4S0JiYTY5ZncwbEgyR1pfLWpQNmRDTUhxQTJCU296S2tQNEQyV3ozblVuU1dKTVFRMHlqWnJMTUFoZFdNZ0p1YVJqaWRMZnlqVTFHc0JweVNtNU0?oc=5",
+      "pub_date": "Mon, 31 Aug 2026 02:29:43 GMT",
+      "source": "Laodong.vn",
+      "id": "c993593669548819",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Ngành Thuế chủ động hướng dẫn người nộp thuế chủ động khai, tạm nộp và quyết toán - VOV.VN",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY3FQTWJYU0tWNkRzWFR2MUc4TFM0c1dFV1QyWUdTSlNCX016cnU3TnFqSmdJNDkzQ2QxSUROTDh1QnE2ME1NaWZaRUltbWVMbUV1SDlNdWoyMWcyVDMwMHpzNWNfeWk4aFEwcVNsdURkcmdUY0lGNlphdmpBRnNaUTBUWGtmamJNcFBhUmpncV9OSE5jZWkybk5TZDlHNHljVmlJdFZIWFBjY3NWWlRoM0NhcVRBNkdWV2c?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 02:44:03 GMT",
+      "source": "VOV.VN",
+      "id": "096bf17158f30952",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Hộ, cá nhân kinh doanh cần chủ động tạm nộp thuế TNCN trong thời gian chờ sửa đổi luật - Tạp chí Kinh tế - Tài chính Online",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMF9jcnNtSHlVR1VrWmVMZkNiSEE4V2stQ2cyWlhkTktTTjFmNVlrMUsxZ2FTdEJKWTBiZnZ3c0dHdnd1SzlpSDIwX1Y4NzhzU0dTd0d4RzFnVnE1akpiMzRZT1RWdmN4aG9laHJKZDJobEFfRGhZLVo1Nk8xSS1VQlA1amVZcnZmY2drOEE0ZUVlOXE3RHcxVG82c3hPck5ubVFKN0lyRlAxanRSQVZteWhVLTA5QXVVMWNiMkJSdUdrWVQ0V0tia01NUDBaY3hlX0ZzQUctNng?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 08:10:46 GMT",
+      "source": "Tạp chí Kinh tế - Tài chính Online",
+      "id": "ad6f8db6ebde1af2",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Giảm thuế thu nhập cá nhân và thuế thu nhập doanh nghiệp - Báo Thanh Hóa",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZHBfNXBYSW43THloWUY4UUtyMFJyQ2dQUDRGeEhMM0U5akpOTkU2dHBjT2toR1UtNU9qNUVQOFJpNkNuNlZzRDI2NVVpdXJVdXlheGd5TVZkak5OdmJ2eXZVY1NFRU4xZ3VqallCZlJxclJBVTNVSVFXQ1lTdE5rTWNzZFBUTWN4RkQzRHRKOVktQnY2aGU1eF9VOG4?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 03:48:26 GMT",
+      "source": "Báo Thanh Hóa",
+      "id": "c63bb44abce8ad5e",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Giảm tới 30% thuế thu nhập cá nhân, thuế thu nhập doanh nghiệp năm 2026, 2027 - Gia đình & Xã hội",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbFRnbm1PX2stT2JfSTZhZlpMUjZWM1hvRUs3bjVEeDdSOWpZTTdMLTF6OXc5c3BSVGN0aUE0SkZWeElOS3hLenA0Zkc5WU95cEdkaTdtMnJBM2VOZWRTZTlqWldEdXp1OHNEdVlfSG1XdjQ0MjJIb3ZVbnMxWnBoNlZSWEtuck5YNFhCRlJMWEp0TExGQk5hNmFFYlc0TzNMemNJU2w4UFFnUlZSeWgwakZ2enRhb3MtV2ZHSjktREoySmpmd0YzWjYxUQ?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 06:03:00 GMT",
+      "source": "Gia đình & Xã hội",
+      "id": "3c2224dce6c73bfe",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Giảm thuế thu nhập cá nhân, thuế thu nhập doanh nghiệp: Hàng triệu hộ kinh doanh, doanh nghiệp được hưởng lợi - xaydungchinhsach.chinhphu.vn",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPN0ZCWWEyRnNLMm9xbXdkQmZZNTluRmVMbHNpdjQ1ZFAwZEE2WWc5aEg5dFl6cE91RzlWSy1BcmR2b3NYUWsxUkQ1UW1IdmFMN21fczRfOWktSEFxVHI5U2xWQVpfVkduQVFPU3huSm01TVUwT2pJN3dQQzVMZ0MzV0RNS3pabGFGME9uczJOUlBMenFWVERuajdQWEVjRjlVdklzNm5oU1BVdjVLaU1yVzhpT1VyRGkwY05kZ2owNmdFZ3M2SXR0WmZZbjlWazhxU1JqU09DWFVXTkRXTDEtdlliZmJxUWFuaGJoOXg1YmtaNUppME1fbkhn?oc=5",
+      "pub_date": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "source": "xaydungchinhsach.chinhphu.vn",
+      "id": "067c53043b708a03",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Doanh thu dưới 10 tỷ đồng: Cá nhân kinh doanh, doanh nghiệp có được giảm 30% thuế? - Vietstock",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNDNXQXM4aThKRWRpV2lTQ25WVXN5b1BlbnYzLXp6VXFaUVkxNTNGNEVTVl96RWFMUEM4SVBDQV92RG5TSklqcjl4ZDJlR1lNQUpNeFUzVDUzZVY5SmZMSHlEQ2FHMllqVzlnR0ZkNXViUTdLSTZyYkRrWm5ERUJHT1BDM1NSc1UycE5QZFdKMlRkczVFSGZtTGhOZ0xqWXdHTDA2YjBrcDRtZVB5d3RXVTBnWlBmQmNoaHFmcFZTXzM?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 03:02:00 GMT",
+      "source": "Vietstock",
+      "id": "7aa006965535968a",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "3 trường hợp được miễn thuế thu nhập cá nhân khi chuyển nhượng nhà đất - Báo VietNamNet",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQam5zVkFDdE9qYk5FOUU0a2dSOFRJcURCc1ZYNEd2Qkd5SklEZDA1U0VrckZnUGJFdmFjUkttNWxicmJxWXZmNlFWdXNtaWw2NTRMZWk1MS1nYnJGQXh5Ym9peDZjeldGcVpKei1qQjd3VGd6QWNsS09WSXlyQXZoY01lcW8xRHItaGVJNm9Id0dxVGR0NXdYLXZMTFFYX1I2ekI0TGdjMVk?oc=5",
+      "pub_date": "Thu, 27 Aug 2026 07:00:00 GMT",
+      "source": "Báo VietNamNet",
+      "id": "0145f48a059ae31a",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Giảm 30% thuế: Không nên chỉ nhìn vào ngưỡng doanh thu 10 tỷ đồng - Tạp chí Kinh tế - Tài chính Online",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTEdQS3FGQzZOdUcyN0JJMll6N1p4N3c2WkVzOExqNTJYN2VlNTNsbkk2NkQ3ZGFxZm9Ba3NzbTJSbHNBVm54ejE5ZEFac2F0RG1manoySGdBdlFlRFpmdlVrVndISTRjQV92R3VYdjZiX2c3NWlHTi11TGJJcVl1YjFCVUh2RU9QdU1MTE94Q0lrU012UThWZHlJTlBXd204TjZ6T09tT2VWZlJGam5EZzkyOGFZR0FhY05Z?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 04:27:19 GMT",
+      "source": "Tạp chí Kinh tế - Tài chính Online",
+      "id": "0f3b5879866900fd",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Cục Thuế phát thông báo quan trọng đến hàng triệu hộ, cá nhân kinh doanh - nguoiquansat.vn",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNkNKbTdNeXYzNVpLcU14UjBQQWpaZFBpQy0zZWZVUHFzZVhWZ1B4cFRWbm9EY0hQZXNfVzdfSnhHTDZQNUdRUmN0eHhGS3Q3QXpaUWdER2NzeHNYTFNsTF90LWxhR1NZR1ZhWDBkRUx1djFoNkRSc1BkWFRWTk9rcWttcUZSMlhFckVpTlQ5VU9XUU00cUdfNkhmRWVkUGxvNHJ1NGZWQTZIU3M?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 14:31:01 GMT",
+      "source": "nguoiquansat.vn",
+      "id": "a91b2841ce4e7924",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Chính thức giảm 30% thuế thu nhập cho cá nhân, doanh nghiệp nhỏ - congly.vn",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOazhGSHhZV2tNNHhOQ0dHMW1VUEtSdnNzVHg5eE5GOGpRdEx3bTZYZmFYZ1haV1hDdlFyQjFEWW1ldlBFMWFkalQyMVJEUmhhelpGajhialFLb0llSXRQR05BTmloMHZqTEF0THJsdFlNajM0TnNhMEVHNEtDOHdQRk9oRlVkdDE4Q29UX1ZQd01vVFR0dFctcG9B?oc=5",
+      "pub_date": "Mon, 31 Aug 2026 00:36:06 GMT",
+      "source": "congly.vn",
+      "id": "ae8bad1dd5c273da",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Quy định chi tiết chính sách miễn, giảm thuế thu nhập doanh nghiệp và cá nhân - Cổng thông tin điện tử tỉnh Hà Tĩnh",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTkNqaFZsVjg0Z0l3N0tsa0V2UGw2ajN3QUtmb0poeXYySkJ1Ri05ckx3OVZhWnVIdmNUX0N3RXhVdWE3c21HYXFvb2dacVVma0J0RTlERUJKdzZYWDVLZ1NuaXltOUgzY2JpYVctSkZYa2pXZWpDck5EdDE0bjJuN0h2UnlFRTQyd3JzUFViNkZMdDFLUG9SS2pxblhVQ3VaNmJCYWtxLWNjMnNZai00?oc=5",
+      "pub_date": "Thu, 27 Aug 2026 07:00:00 GMT",
+      "source": "Cổng thông tin điện tử tỉnh Hà Tĩnh",
+      "id": "68e6007388577715",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Bộ Tài chính: Chưa bổ sung cơ chế doanh nghiệp nộp thay thuế cho người thu gom phế liệu - Tạp chí Kinh tế - Tài chính Online",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQ2JvVlB4N1V3SjRlN1NDOHIwUE13ei0xbXFTbURaRzZjZzNfUWlwRWJSVWdGbDBzNzYwUGdJVF9Tcjc2THVrb3ZUbUdsVjJFcC1QZDJkbmhrRjU4UDMwaHRvMmRsY2x5U2lSUlB4SmgtT3ZpcG5kMUJqXzAzZnR0T0ZqWlNDSVpzWGVVUlFRMVduZFhweGRjVjZza3ZlMzE0STNkakJ3bVozandvNVZTNWNtSF9hQ2JWMDZsZ2RycUNKdUJHLW1BbWpuTzFqVjRlZWQ1clhwTUJnZw?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 12:34:56 GMT",
+      "source": "Tạp chí Kinh tế - Tài chính Online",
+      "id": "41bff871cd504baa",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Tiền lương, tiền thưởng và thuế thu nhập cá nhân dịp Quốc khánh 2.9 năm 2026 - Laodong.vn",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOamQzcDFIM2l3NndBcTE1Qi0xdE05d01fdllNVk9WV1ZLRnJDUERwX0MzZkU3TVBoQjVqcmY2SUhUa1RiU2pJSzROTS1CUVh0ZWstQ2JZaVNEQ09ZSGRMWnVfOXlieENkZ3JmS2N5dTlUbzI3cEY2UWZlbjhOWE5qSlp1XzJMTHZ0MUJfWDZOTVFqNmVjRXFFZnJjQXVWQ200d3RZTXFROVlXVU40eWJrVlZGZFA?oc=5",
+      "pub_date": "Sun, 30 Aug 2026 07:00:00 GMT",
+      "source": "Laodong.vn",
+      "id": "550ea6a354c4cde2",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Giảm thuế, thêm “trợ lực” để hộ kinh doanh lớn mạnh thành doanh nghiệp - Thời báo Tài chính Việt Nam",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMVVESVJ1ckVSdHRrZzJuUGRWVFYyX3RKcEhrMWlwSXM5UUV2UlNxRjBmTExFeG5hRGxxZEFWS2dzTEdsMEhGb0Q3NkpkZndNNk1iNDVFai0tNnN6Zm9UZlFkcmV5bTNtRlRtcWJlRzB0TENlMXoyTExPUGV4SldWNGtTVy1zZmExSFpWZmRMZEZ2UVpEcDI4ckZUSDZ1c0dYT3liNktlSkhqXzAzYUlmMWFCTk9RdWQtdWN1cA?oc=5",
+      "pub_date": "Tue, 01 Sep 2026 23:34:16 GMT",
+      "source": "Thời báo Tài chính Việt Nam",
+      "id": "9aa975a921f65b62",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Chính thức giảm 30% thuế thu nhập cá nhân và doanh nghiệp trong hai năm 2026 và 2027 - Tạp chí Doanh nhân trẻ",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc0xJZ0t2djB6djIyLTVWM1p6emVZM0tYSHZoZnRCVkNFSF9GQmg3M1F1RDBCRjJ4TDlLcVpGcGtsR3MyZUxFRlliVWtmSEg5Y252VDFhOVREamhCS19Hb1FhU2V2SWtyODVPS1dfVFdjeXBEMng5LTQtSWhtN0hYRnBsdTdTemV5TnZ3aE5VTXZhWmM0V2xyb0VaRFdEdndzZkUxUzRmNTE1STBXSzNoNVpGcWRXR3RXcFhlV3BiRVExTEFK?oc=5",
+      "pub_date": "Tue, 01 Sep 2026 09:52:00 GMT",
+      "source": "Tạp chí Doanh nhân trẻ",
+      "id": "8993a5026810053a",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Hộ kinh doanh mong được giảm 30% thuế ngay - Báo Tuổi Trẻ",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVkpCemtnREZ2VjdsZEpBZkhkMjV6V2QwcnNBZ2lzOFpmZTZUN3EwTEREVHliMTNLRWFWcDRZRVVIVjYweTctaEhpMG1NcXBBamkxNzkxamt5U3JZNkxldmhXb2ZSZjJudUk2QThpbkR4T0ROQjAxX0RaZUVzWTQySG5ZOHNlMWNMLTA4?oc=5",
+      "pub_date": "Wed, 02 Sep 2026 02:15:00 GMT",
+      "source": "Báo Tuổi Trẻ",
+      "id": "6fdfcb33e922b19d",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Sẽ sớm có hướng dẫn cách tính toán giảm 30% thuế cả năm - VOV Giao thông",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY3A0RjJmTDEzQjFLWWpnTGktNDljeDRwZFY1NURVTEtveXdqbF80TEVOQkdobnN6OXJKSFFGRXRkS1hvMmJvSHBaNWFUSXNySUt1alBrLXI4Yl9DQjlpWVhtNXNGQ0pac1lnUHRLdllyTHpMa291VWxzRXU1VERyQjZWeDl5Mm1WSWw2a1pmQm1GU1NxTGJEa1Z2RHppclVVUFE?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 01:19:00 GMT",
+      "source": "VOV Giao thông",
+      "id": "510250c4722b2a1c",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Hộ kinh doanh có thêm nguồn lực để đầu tư, mở rộng sản xuất, kinh doanh - VOV.VN",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN0UyU3BXQ0I4ZGZyLUJ3d0ppejJENXY4VjJJNEZFMWdYejZQaW5FMzJNTzY0b0xTVmVWeThjNUY5enVBN1ZRSkxlRUxfNlVFLXdWUWZZNk5wLXRTUEFJdkk5cldZVks2LUF0WnlaWmNIQ2JIZG1qZDFtanRZeEtURDlJLVNXcGQ5ZFlqRUNhZWZod1RsODM1R3ZlekpOTUFTZXhPOFRFTDZyWEt2?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 07:16:54 GMT",
+      "source": "VOV.VN",
+      "id": "0d6c6d2fcc5b0044",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "VIDEO: Rơi vào thế giằng co giữa hai chiều tác động, giá vàng liệu có bứt phá? - Tạp chí Kinh tế - Tài chính Online",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLVFKOTVUaG10Q0tYOFc0a1VzUEs2Y2trZndWTEpxX2NMTnJfRldxTG9ZRHNjaDZmMlFLTGNyb0xxZW5RblhkT0N1SHlaTGZuS2ZTS0o1OEVFSlBvUGd3ZzVrOVJQcE5sdUZXS3NVSWFEQTRSeHF6dk52eTZZZnA5YzJHWTlYeWJMYUEtOHRUNmJSaVV2anQ3dzE0ME1jWjVVd3RCR2ZzTmFDLXlpNkk4MGVhRk5DRE1ab2c?oc=5",
+      "pub_date": "Sat, 05 Sep 2026 00:14:27 GMT",
+      "source": "Tạp chí Kinh tế - Tài chính Online",
+      "id": "76d8433a96d57d46",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Đề xuất bù trừ, hoàn phần đã nộp khi giảm thuế, Bộ Tài chính nói gì? - Dak Lak 24h",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM2lzRU9TWXdjWkM2Xy1uN2piM2Jxei02LXc1MTJILWs0b19NcEZfUGV4Yno0Z1otMWE4WE4zZHdoUTNMRFpDWnB5S3N4Y01iTHhXYmxrRFVtU3JMeFQ4RWg3cU1yVXMzRV9vbkxGd2hndTRmU0JjQ2N2X0E5dWVQZS12LVR6YmJ4czZzbTlMdEF0aHpSSnBWN19KSUxvRnYzUEVvZ3dXODhMV3ZhbW9tRWNqUTU?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 02:10:00 GMT",
+      "source": "Dak Lak 24h",
+      "id": "31f56f349b5ff529",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Hướng dẫn nộp thuế cho kinh doanh doanh thu dưới 10 tỷ đồng/năm - Báo Dân trí",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUWhORzVxTVlVWnZhZ2ZrVTh5SlVYa2FFbkNDcG15UU41aktSeTZZYzhQWjR0Uzd2TzNOeVJXaW4wN1JxaDhKRFkyWjU2Y2llYjFCeURMeW9QS3RKSVBtbW9kenhvUHRkMWhpQWN4VEMwQTlmYmkwUUtoSUY2Q3d6a3JNVllOVF9QU2l1bkE1eGFxbWlkWE9vekpNRHgzWFluOTI3TkdCa2Y3VTdZYlMtQ2g0bEZRSXdT?oc=5",
+      "pub_date": "Mon, 31 Aug 2026 23:24:35 GMT",
+      "source": "Báo Dân trí",
+      "id": "d54aa1297b46b731",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Trung Quốc chấm dứt miễn thuế cổ tức cho cá nhân nước ngoài - VTV.vn",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNak94QW9VUjJZWnN6MVZDS3Q0bDdBaDhZRkpNV2o1UTJFZzRjcE9CNjFXaVBGaFEtOXdkTXAwQ0NuYXFReTYySHAwanI5WHNQX3RIR29pQ2pkdkJsZHFzdnlqemJ0SS13UWdaam5FYkE4a1N3RlB2aU9JSXY1ZFdfNjZWbTc3aUNJZzFHUS1SMWxuSzlycmV5aTJleFh3dw?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 04:36:00 GMT",
+      "source": "VTV.vn",
+      "id": "b78cfeccfa7ec91f",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Cục Thuế hướng dẫn thực hiện tạm nộp thuế thu nhập cá nhân - hangthat.thuonghieucongluan.com.vn",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVkNVUUFZNVM5WUxEeDVXMDFKdlh5OGNYUlBYSkc1R1lpdGdkaE5hM1F0SzUtSE5rcV9NTEpibGYtOWdOMXBqUEV2MW44MUFJS0YtNzU2ZlI5T2ZUbEN2eGJPeDZWS3dVOXR3X203cEJvVml4X2l1cDcza1J4SHlKU2hacHJER3lKMXJSdi1CbXFTclRCT3N0TXdsUjVJY3p6SjJZOEpZcnVwMV9Cd0xoZA?oc=5",
+      "pub_date": "Mon, 31 Aug 2026 07:42:00 GMT",
+      "source": "hangthat.thuonghieucongluan.com.vn",
+      "id": "01197722c64edd03",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Giảm thuế, tăng cơ hội cho doanh nghiệp phát triển - HueNgayNay",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQY09PRTNNUHdTVjFfcDhCN2djaUc4eDBqUkZNSWVHbkxCRnhvT1RBbjRXeW1GcEVmZUItVDVvR3l0ck91SFZLRTB0cHlpMndrX2cwZXY3OTZudGU1dUdOZjdzUmE5MUtxYXpuc1NUbmNRNTNTbmJiNkwzUmZaQnl1eUNhWTVSVy1TRWtEemNsWTFGQnJNMVHSAVZBVV95cUxPdWxBSWlIbW8wRGNzNFpCeGFJaU1LOE9qWTRHS2pVX04yUThKM1YzYUFDdl93QWNlTnpELUlDVUF2b1lyOU9JWTR4RVBTZTdqUFJ5VmJQQQ?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 22:53:00 GMT",
+      "source": "HueNgayNay",
+      "id": "087f8ad0ffe327a4",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Giảm 30% thuế: “Khoan sức” để hộ kinh doanh, doanh nghiệp nhỏ lớn lên - diendandoanhnghiep.vn",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb2R1SXJ2S2Nib3h2VnJxeFYzZ0FwdW84NXdDUmczbURIWkZUamxfWlYzT2ppUzhETG9uSUtxZURDRUMtZVY1TnR3akdOMkM0NVFVWnl6N2psUGNxem02Y1QyS0JxS1R1d0doR21EeXBmZlY1US15ejZ0bTVyR0tRM2o1Vm5LbWZ6cFFoVnBRN1BBMnJtMWFhdlNSQ3RuUDN5dXFLckc1ZlptSG5Z?oc=5",
+      "pub_date": "Tue, 01 Sep 2026 21:15:01 GMT",
+      "source": "diendandoanhnghiep.vn",
+      "id": "9b5a739f7a0ab113",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Nghị quyết 43/2026/QH16 về giảm 30% số thuế thu nhập phải nộp cho kỳ tính thuế năm 2026 và năm 2027 áp dụng cho đối tượng nào? - Góc nhìn pháp lý",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPRFQwR0JqeXM5R2VQREVXVkhydkZnbGlDVHNLSVVfc1BKTVM2Ty05UmwtNHFDWnhEQ2N2cEpTRGpwNXVtTEswZ3pOR0w2MjBzbFFISW9MY29oSFVqSXJhMTZOOVIxcGVESVVSMl81RHlBNFpjcGIxU3NRbnpmNEJ2WnY5djVuanY1YlJNVWRVWUU5cG92Z1Q1bTFGWGJhMXFEbnUtandjMFQ4U2JhejVBcVM2aVJKbGR0cFRoUHdHTENMUWd5WXVySnJ5b2hVRUxfdVRBQlRpWkdHZkp6cXNDaWMxaF9JLXpzaVF0MXpWU2FMOGYtVk5DaXA3SzJMX1U?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 14:38:52 GMT",
+      "source": "Góc nhìn pháp lý",
+      "id": "75e890333d3e9b4f",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Thuế tỉnh Thanh Hóa mở rộng kênh hỗ trợ, đồng hành cùng doanh nghiệp - Tạp chí Kinh tế - Tài chính Online",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcWNjb2ZEOE9pY2xaai0wOHhlNzhGQ0w5UDBqTi1ucGxSbF91TE9mcmxTR1ZTemRLb0hGUzN0SUpsQ3M4NmY0bTM1QkR1eDNyWTd2d210d1NQcjFqT3FXMS1BTkc3NE9UaXJveXZORUxxMGdnUmROT1pOUGZhNkczU2RLRjlSSGxfZTk0cVppS3ZxOHFOSjdqUkctVjhxZ0c4THZPbmZLVTNTV0ZObmxHY1RnQ25sM2ljMzF3V2JTenk?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 07:19:35 GMT",
+      "source": "Tạp chí Kinh tế - Tài chính Online",
+      "id": "c350d3bfb05c4454",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Giảm thuế, tăng cơ hội cho doanh nghiệp phát triển - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1OVXRtSmtQNE5oc3lBNURud2lyVlpaN3JpQkVhWk10VWVGM041NFkyWE9SR2FzNzdOa1RPdjdGU2pwejZic2ZxSzVHV1paN0QtejhsekFFcGVIWGtkR2dPQjdQVTNVcWctZVphZWM5TFgtQTYtNko1V3FfdmY?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 23:19:05 GMT",
+      "source": "Vietnam.vn",
+      "id": "1b693c551368f183",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Quy định mới về đối tượng bị xử phạt vi phạm hành chính về thuế, hóa đơn - Laodong.vn",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa09jbnJNQ3JCMVBwV1UycThrRkxXeGVIMjhySkpfam9qb2hxSVBfTE8wVDBpQWZFRmZfUElQVEtfb3hzWlAwTkptQUdTekNZSE5BUjJsYVYzUEg5c3JSMklTSU50ekYyOXB5MmdMZExjMlg1bjFHOExiODdLTEpHdk9iZGh3Y09tTldrWElTSUZOakEzU1pMNUxnT1puc3NLczR6SHdtSkVLVXYwNGtTS1hhbw?oc=5",
+      "pub_date": "Wed, 02 Sep 2026 04:01:51 GMT",
+      "source": "Laodong.vn",
+      "id": "9830dfa284e65c84",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Doanh nghiệp được giảm 30% thuế: Số đã tạm nộp xử lý thế nào? - znews.vn",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOb1E4U05OaUFfUkJWUkNhODY4dW51QTJ2UTNkYmxZb2JzMFpiSVp3WHVkVnFrMFpiUHVLSVd3RmFJWk4xbmlCcGxXV0R0akhNY0VYTkRNN0MxNmV6NEtPS0tCWUl5TVoteHdLeEtXeVdoQWxkMkFFNjhVVXZydWNZM19JTHgtSFR0dzlWT3VxWGFiemFMRzNr?oc=5",
+      "pub_date": "Tue, 01 Sep 2026 13:28:45 GMT",
+      "source": "znews.vn",
+      "id": "dbf5c107dacdde52",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Trung Quốc tung đòn mới, nỗ lực 'bịt kín' các kẽ hở thuế - VietnamFinance",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVS1KR2YwQkFBb2Rudl9NYmZsMlBwRGlPaG9EcTVXZGZSQldQbjJtWDRvNS02a3pRQUdSQU5mSGV6VzA4VDJWWW0zV2pWRG9sRlZYSi1yOVpVWGpmdG40MjBPZFpPYmw2SHlrRjNxWDNzNmw2UWFCOUZIRXFLa3JXMVFibkJNX3RRVGlxeW91NEFLbU9RcnZv?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 01:15:00 GMT",
+      "source": "VietnamFinance",
+      "id": "b2c315b506632bd6",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Trung Quốc siết “lưới thuế”, đánh thuế 20% cổ tức cho cá nhân nước ngoài - Cộng đồng Kinh doanh Việt Nam",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWkJLOW1fSTkxbWNPcjluLU9pQk0xUEVQWmdWTVM4YU1iSGlOY0tLMjkxaDhaN3JyNUhpT05obF9lenVlemJhYXczODJTQ0pDY212VU5KY3o4YUcyVG5RZFRld0hkT2dSRVpOajUxa2RwUE9uajE5ZzI1LWJCbWtUNlBVSEthMzBWTGNXeFNuZkVTLXUwcUVoa2xaNXk2R0ZPWDJqRDRFc0F1NllpTjZ5VkZXSG4?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 02:36:51 GMT",
+      "source": "Cộng đồng Kinh doanh Việt Nam",
+      "id": "21b33d76290fb4a9",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập cá nhân",
+      "title": "Doanh nghiệp cần lưu ý khi cơ quan thuế kiểm tra tại trụ sở - Laodong.vn",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNlBDYlZlSThsdjNjNVdiYmVBSTdVdzdDaEFiR3B5RHhsdUpGVjRQcGcyWGY2Z0F2cW1pNVR2Z2djWkU1cHU4cGdqQXYtaExwVUItalZ1MU1GbWZMX3NhVXRSVjdUQ1ZsNzhKeUZkSE56UFpMc3RuY0dsWVRuUjNDTkVIZlZubUVwa184S0xIWWhCUmJYckpTd09FZ3BjdTdTNXlZ?oc=5",
+      "pub_date": "Wed, 02 Sep 2026 01:12:08 GMT",
+      "source": "Laodong.vn",
+      "id": "ed7ff50a101ba043",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế giá trị gia tăng",
+      "title": "Chính phủ nghiên cứu kỹ lưỡng, cải cách phương pháp tính thuế giá trị gia tăng - Báo Tuổi Trẻ",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX0VWZ3U2UHUwY1FZODZBNTN2Wi1JZ0JKNFZKLUg4MUd0dEZZTTlJTDFyMTRpYm5LWkt2cEhtVGhuYm9HRk41RFFDcjFCVUJGdFVoVlc0US1nUzJ3eHN2TUNzNmNCVXh3ZmZTb0lxWkE3bENqQjVZRnd2OXVaQnp6WmJ3N29zYllFXzItNnI2SjZ5T3RzSEFmdnA3bmFuVmNlUHI5LXlSd2hQNVZFSk1qRGNzYlA3TWlQdFE?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 11:24:00 GMT",
+      "source": "Báo Tuổi Trẻ",
+      "id": "8e33307edcca8f29",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế giá trị gia tăng",
+      "title": "Quốc hội bàn việc giảm thuế VAT đến hết năm 2026 - Cổng thông tin điện tử tỉnh Hà Tĩnh",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbHZBck12ajZLeUU1ZUt5aGlfRTdIVG5BT2huMUpiN0tvUlJsdHlWbWxoV1lMT1NKLTR6RGota1d1YU1BTzVDSE0zN3JkTmM4WU9hVmdDQTl4ZUhic2F2MWxpRFg5cWZIcEsydjhJeTlOT2otOUk5ZUdTS1NJWWhvSHFzd0ZQOEk0R3c?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 20:04:21 GMT",
+      "source": "Cổng thông tin điện tử tỉnh Hà Tĩnh",
+      "id": "009cae766b6176ac",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế giá trị gia tăng",
+      "title": "Gỗ xẻ sấy vẫn có thể thuộc diện không chịu thuế giá trị gia tăng - Tạp chí Kinh tế - Tài chính Online",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNUh5TEtpZkVibXdpdVZFQndHZXAxU09GZzFDZ0RSN3BFZHF0bE83TGttUDNLOTVTdlYzTlFSdUFUZFBwT1k3Q1hjbXRYcHhoYlJERDA3NTF5czBnc1RkVnRfcENsRDFSdi1ZOVVKdVlhWUpSa1Q2S3ZGWlpxYjhLVGtkTEZYTnpyWFZGa1N3Z0FzQ0syMS1XNzd4NWpnci13cUo3MmFSMlVLRkNVaDhZWmc0Y2NfbWJDX0xfNw?oc=5",
+      "pub_date": "Tue, 01 Sep 2026 03:00:37 GMT",
+      "source": "Tạp chí Kinh tế - Tài chính Online",
+      "id": "c564a29a73919ef5",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế giá trị gia tăng",
+      "title": "Tháo gỡ vướng mắc về thuế giá trị gia tăng cho gỗ sơ chế thông thường - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORi02Sk9ZemJheFZxUjBJX2p6aDRBTFZ2eGpsSWZ3eHpxcUJPc3U1VERyZFN1dllOYW5pY3AwcDRCT2MyRmRfZnA0LXRwTHVpVHFJOEFVMEFXSVkyRFN2dFlxT2xtRHVTZnI5Z2M4THFvNjU0NHlBMXNzN0JfVTRyYlZ6QzlzTjl1alR3V3lKSHBoYjVwMGRr?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 05:21:33 GMT",
+      "source": "Vietnam.vn",
+      "id": "e0580d13a479daa8",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế giá trị gia tăng",
+      "title": "Một số thông tin về việc điều hành giá xăng dầu ngày 3/9 - moit.gov.vn",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNLVhXSTVUdlBLZDFxWGlSbU84YWRfLW1wNmJfLXZKREFBZFlwbDhTamh6S0psUUUwdE1YakV6Z0FpWkhSTXlGdW8wMEdqbE14Q2QwWGJzcVlYYlVDY3lMdl9PcXdOVXh6bmozXzFTOEo2UGs5c1ExVmpQdXlLcXpkczdXT3Z2YWpRMllZWjlFM3paSjJxbFFWRzNsLXJXeFpP?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 08:39:15 GMT",
+      "source": "moit.gov.vn",
+      "id": "f03d07126c23bfd1",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế giá trị gia tăng",
+      "title": "Giao dịch nhỏ, lẻ: Có thể dùng chứng từ đơn giản thay hóa đơn? - Báo Tuổi Trẻ",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRklPX1hMbnhlNnFLR0wtTHo2b0pkQjZMd1NPY1UtN0ZOYlZMNDdQQ1BYbk1jWk0ySUpRaDJXamlUbGlDVkdQd2tBeXAwX3dySTRyeUs2dGtROHZFRk1RODhJTHA5TlV6aVMxLUxLcFl5eWhGcHNjV2x1WWk3RHdjSktDVkQycjlCZTA0ZmRmR0wtM2Q0aXd5bkVSV2dWS3gtZjI0?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 04:47:00 GMT",
+      "source": "Báo Tuổi Trẻ",
+      "id": "5bd666466741e082",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế giá trị gia tăng",
+      "title": "Thuế giá trị gia tăng đối với hàng hóa tạm nhập để sửa chữa và tái xuất - Tạp chí Kinh tế - Tài chính Online",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTDlWNDVPc2Z2dFNSR1dCWDZ0cU1LZUxfLVJEdnQ5NHFicVR6SUstb0ptRXMzTXFXa1o0OGVBNEV5ZmcxWDhId2hvSkpyZzRPb1p1VFFURE9UcXBXbDk0VVFLeWVhdUs3ZmZhT0l6LTJuTWRJRF9hYTR6TjZQNHRrTDh6ZXc2cVZjZnp1cE9TQlNXdE5MMDBacjE2aTIyOEhHUUZkWEpETHVYa0NybzltRnJkX0FSOVlJRnNUYXdCOEFKR0xkaEE?oc=5",
+      "pub_date": "Tue, 25 Aug 2026 07:00:17 GMT",
+      "source": "Tạp chí Kinh tế - Tài chính Online",
+      "id": "4b6c28a0f8235357",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế giá trị gia tăng",
+      "title": "Điều kiện được giảm thuế GTGT với dịch vụ xây dựng đến hết năm 2026 - Tạp chí Kinh tế - Tài chính Online",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZlZ6YjBpSDVLWW4wSVFIRWJ3TThfSEpPUG44YUhOb0JtZW14TE0wb3JhRXd5S05zSVUxaWNUVnl4Rlc2TFFPYmt3emNHSUxhdUNYZHE5NmUyT2RoR2xfWi1mWVJwTV9FZXlYSV9wUzJGUDJ6VE1aT3dmdzlLcVJORk5fbzZsYmFWbVB2LVp2Vi0zOVIyLW9iSkQ5QTIxTTdyajEtU1lRSlhvelQ0SXNVNWd4MHE0Mm9lbXBWZUtBdlU?oc=5",
+      "pub_date": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "source": "Tạp chí Kinh tế - Tài chính Online",
+      "id": "384c39433694ade5",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế giá trị gia tăng",
+      "title": "Nguyên tắc, tiêu chí phân chia thuế giá trị gia tăng cho từng địa phương - lsvn.vn",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaDdNVDd1eFl1MUdQcWc1N29zNlhGVktMdHY0RXBPVlprTXkxRGt3cFFKR3REWE1FRHZtTVNrZUdfVEhLVlB5TkQ3MTQ4LTlPdkFkVWtsUWFHWEJxWE9vSDRQNWtONXZfa2VoMjRWbGxqQkVpdVAtNEtkcVc2dTdBUWJyZlFOT0dyekdxc2RhSDRrYVBVa3IzSXRQR2JwTVdHOUE?oc=5",
+      "pub_date": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "source": "lsvn.vn",
+      "id": "27f854e0e7df1b29",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế giá trị gia tăng",
+      "title": "Ngân hàng tăng phí thông báo biến động số dư tài khoản qua tin nhắn SMS - Báo Thanh Niên",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT1ZZZ3prZUFVZ3NuOE9WdVp0SG1Wa3FJVFFwVjhzcnhtNXl2WHV6TVFHWV9IYk1ndXRHOER5X1RtRV90TlZJTVZTLTc0bTlhdXluUGVzdG44V2pWcHJCU2diWFNaZUpqYUxZUDBwaWRIYTNWQ1dfVjBZRzFocEliRE5GQnpKYTlSd2RYVE9GSUN6MnM5TzBEVjR3VDhrNDBsUHdGRFRHbXA0NTVTdWdKa2pVYUQtZw?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 07:35:00 GMT",
+      "source": "Báo Thanh Niên",
+      "id": "6c85396308dd5a5a",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế giá trị gia tăng",
+      "title": "Bồi thường bảo hiểm xe cơ giới: Lý do nhiều khách hàng không được trả tiền thuế VAT - VietnamFinance",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORVloMTIyR0ZJaG5pNmFycVZTa0VqVWt1ZEZvYWppLUtjMk40cEE5b1o2VWpjVEpzS2xld3FHSE12dnVhZEdOT0VERWROaWJZXzNjeHF3WExHWnZSeWlvVU8xclhRNDNtX2NoMFBGYUhleEFER0VFclVIck9hWG16MWlsU3ZWSW8yMEVYamFBNVhPWG1veWNDLW5rYWxPX1pqb2pDdEo5NnJzSXpBc1gxN0s5VnNPc3FPc2JncDF3?oc=5",
+      "pub_date": "Wed, 26 Aug 2026 08:00:00 GMT",
+      "source": "VietnamFinance",
+      "id": "5cf65c3186fcec73",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế giá trị gia tăng",
+      "title": "Thủy sản Việt Nam nâng giá trị để mở rộng thị phần - Tạp chí Doanh nghiệp & Đầu tư",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMlhVLUFlbW9GeUpEcXVaMFJvRy15bFdIT2VyLTBsMXNaWU5aLXRDWm1zNmlCRnBXWmFjMTdZalhEcUdKbTJRdTVmTVVBRWxFc2EyYlY3a2gyNDZRWGI0WXEwSGxaZzJ3ZWJDdTBtSFlzWk5vZFV1WGxaQkF6cDgxdjRacWxVd20yaVNGZ2xVdlhkSEs2UDJwcTZKMmVOdw?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 02:35:15 GMT",
+      "source": "Tạp chí Doanh nghiệp & Đầu tư",
+      "id": "06a88fbd105d47e5",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế giá trị gia tăng",
+      "title": "Hộ kinh doanh đạt doanh thu từ 25-30 triệu đồng/tháng có đóng bảo hiểm xã hội không? - Tạp chí Kinh tế - Tài chính Online",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeG1ISWZGblU5Z2hYVEZTZG92OW5xRjhxY0dTVkl6cFlpOVplbEhWQ3E1SDhKTmt2X0VuR1hKTVU4eUgzUEs2VklmZUJtT3g0X2NKYm51aHJmWVZwdkE4c2ZSZXpkTDl4QlFQa1hEUGxPV0M4U1F5dWMyNXpwT1BnZk8wd2NHaFFlYWdUNGdZdlJTNHRnSEpWTlpyZDhsSE81U0NQRGtkTVpKc1E4RHBZTHJlOG5nd25rNEd0cjB0aHZfUlNjbGlXOEVKOTk5U3c?oc=5",
+      "pub_date": "Tue, 01 Sep 2026 23:00:05 GMT",
+      "source": "Tạp chí Kinh tế - Tài chính Online",
+      "id": "030a94985301e085",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế giá trị gia tăng",
+      "title": "Ngày 11/9/2026, đấu giá quyền sử dụng đất ở quyền sở hữu nhà ở và tài sản khác gắn liền với đất tọa lạc tại phường An Hội Tây, TP. HCM - Báo Đấu thầu",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMWFoMzRfV2hMTVhKWUlBTWhSUDdxM2dCU1pDc24ydE1sTHcwbmYtalNlWUpCWEh1QjV1NC0tNlJsR0dpQTJ2ZTZOaWJrTUVCT29wRFFtR0JmZGJoVzkxODNWcE95MHNkUTZka1VXMk1RNmhLc0h0SEw0Rk1OS25kelpycFVUZkVKeTdIUFdRTGhGcGw2c3hYSU1sSFhxVk9ZY1RWYjRvcVRwMkUyTUxUbi1SV1picF9meE1LOGNfc1JoWmVvUXB3WnBLeXQ1MHZtS1RqRHctY2JOQ2RUN1dUMGtrZDdmaXdvaGlwX3FqRmY5a0p4a1Y2OHFIbw?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 02:22:48 GMT",
+      "source": "Báo Đấu thầu",
+      "id": "de528704b91ad5b5",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế giá trị gia tăng",
+      "title": "Chính phủ xem xét Dự án Luật Giao dịch hàng hóa phái sinh - Tạp chí Công Thương",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcVRFM0pXV2xzR3Qybi1iZHk1X2tmYjZjaDVmSy1CUENQYkdTSzhHMzhCd01WWlZlVUZsejNkdTZRUUk0QnhSNXQybTB3VnJZQWRXUEtGdncwQnJsMHhfWUNqSExBV3Z3MWpGankzSW1LNHlTNktKYUdLOWRtTkFEbnRSelNMZGZLZTRxekRGNVdxWXRlWVQyQzBpeXU?oc=5",
+      "pub_date": "Mon, 31 Aug 2026 03:43:00 GMT",
+      "source": "Tạp chí Công Thương",
+      "id": "6554dfb3f7352c61",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế giá trị gia tăng",
+      "title": "Nghệ An tham gia cuộc họp trực tuyến Ban Chỉ đạo điều hành giá - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMHNtb3ZuM0NpWkpTbTRVN0l1YlhCb1R4RGh4TklnbTVqbThYcDFBMGIyMGlvMnRLWG11TWhad2NENzd6aUYxd0RGWk41OUgtcTItYXJkcW5mZVNQRG55WWpodElESm5QM3JKVENCZkNnNFo2TjRtNW9FLVFDdWRlOVJvaVZvNmZVTHQ1YzdR?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 10:22:35 GMT",
+      "source": "Vietnam.vn",
+      "id": "d79258e772e74950",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập doanh nghiệp",
+      "title": "Hoàn thiện pháp luật thuế thu nhập doanh nghiệp bổ sung theo quy định chống xói mòn cơ sở thuế toàn cầu - Tạp chí Dân chủ và Pháp luật",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNb0RhdExkVlFmSktzbUNlLVdZNDI3cjY4MEU1QVdFTjM5cVFhQkVEMWZXN3gxOW90dmR6MVZrWnRTZ3Z3US1XcXRpWHNOT3hweDdqQlFxS3Y5ck1nT09ENTB1SFJGemtOWUFzaW8yWi1fMEZNMm9HdllGelM5VkJPNjZRQllKenFXZVdBQkhnNk9McW5nR1k4MGd6LVA2UlMydUJ0ZGxSa0Z3MUlxQk95M2Z4c1ZtUENGUFliOUpIRFVRRnA5U1hNN0JPYWF4S0JGNm5YemZ4bw?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 13:52:09 GMT",
+      "source": "Tạp chí Dân chủ và Pháp luật",
+      "id": "ac222cc581e6ee20",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập doanh nghiệp",
+      "title": "Nghị quyết của Quốc hội về giảm thuế thu nhập cá nhân, thuế thu nhập doanh nghiệp - Năng lượng sạch Việt Nam",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOU3l5YWxlejJxVnZnMGdqYVVGb2c5YlJfNURZVHk2bWdzVU16NEM5NlN2T2J5NnBlUWdrX2JzaUNSZDA3Wkc3TGwzTjhiUzh1QWZ1ejFDaEhwMkxXWU9LTXlRYzV5YlN0YnhXT052bF9DdnNPa2Rma0hSbXM0cnVYRHVOY3BNbnJhX0kwalExSXNBVE84ZTJjU2tiYXNmZTB6M1czWW94RkhGcTJNTmx0eGRpbW1xN2xuTFB2SnZXWXR1cU5EVVVlODhFeldSWXprTE1RUA?oc=5",
+      "pub_date": "Tue, 01 Sep 2026 04:16:00 GMT",
+      "source": "Năng lượng sạch Việt Nam",
+      "id": "5bfe2de9f1b6aa26",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập doanh nghiệp",
+      "title": "Chủ tịch Quốc hội Trần Thanh Mẫn ký chứng thực Nghị quyết về giảm thuế thu nhập cá nhân, thuế thu nhập doanh nghiệp - quochoi.vn",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYjZoWnBhTHRfVUFCTV9acVJDaE9LRGRwSnNVYXIwd0lWcU9POUxVU2gxTVF5eS1SVG1Qbk12cEgzNG1KNWpGd1NWOGFnZWRqODRVS2I3NkdDWWJPQ0tMeU81ODBYRnE2VVpQVktXY1BuZTBhSWc3T1ZMak1XeERiNTFqclZ2MFllU1pVYkNQbDdjN0RKOG9HNE1nU3FHVjE2ekVLekRqME80N0JJVkhVMExnRXloeGVqbVE?oc=5",
+      "pub_date": "Mon, 31 Aug 2026 07:18:00 GMT",
+      "source": "quochoi.vn",
+      "id": "15dc5fa8648b87f7",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập doanh nghiệp",
+      "title": "Giảm 30% số thuế TNCN phải nộp từ kinh doanh có doanh thu không quá 10 tỉ đồng - baochinhphu.vn",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa3dCeENLb3lMczRvd2FzVEFQcm1UTERqNWJYNkZJdF9TUng3TklQa01mYllVVXVUZFZpakJtUzZ4ZzloNXhBVE9aekxpNktLM3IycjVEdG45cXZDQ0Vfd0FFVF9qbmMzS1pUWWx2TDIwZ0l5YkU4aFJ1ZXdqMEV2T24xRGJWRVByQmZDSkpNM2pjOG0yb0hieGk5MXYtNGtvcnNrZV9fb1ktY1FCWGh0LUVhX0YtdWV3MDJOTDBvaGs?oc=5",
+      "pub_date": "Sun, 30 Aug 2026 09:43:00 GMT",
+      "source": "baochinhphu.vn",
+      "id": "6be14ca1b96f8b66",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập doanh nghiệp",
+      "title": "Giảm thuế thu nhập cá nhân và thuế thu nhập doanh nghiệp - Báo Thanh Hóa",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbS05QV9KTFltNlhZa2RzdGs2VTk5cnhxVVdud2VqOE9QMTh6dkRDaVkycF82bDJ1eWdOOTJ6M2ZlWl9xbW9SZGtXNkNOM2hSOXJCYkRuay1ObW10MHRPbURNbzB0WllpTEhlWEF0S043LUNzWkFFVW91dlN3ZzkxTkcwUDl2X0RTZVZ0S1kzR2Nka3lK?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 02:42:00 GMT",
+      "source": "Báo Thanh Hóa",
+      "id": "5cac85af90ff6f5d",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập doanh nghiệp",
+      "title": "Sẽ miễn thuế thu nhập doanh nghiệp với suất ăn học sinh, sinh viên - VnExpress",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNmJTNWxaWUFqMWFYQlVaZ0ExQmxvVjBMRDZoWm1ISmpBSWdsYlZlMU40RGRNT3lXbDJZM19XWmRfemhsRzlzNDkyZVZEWTdyV01yNHdjcDUtbkt2M0lmcWk1d1EtbWZhbThmN3hTZ1lMVUlpdjRFOUs0MHBJaHA1M2VVZFkyV2ItdldHMEZHbDRrXzhmdkRVdWJJZU1xRlRGZmc?oc=5",
+      "pub_date": "Thu, 27 Aug 2026 07:00:00 GMT",
+      "source": "VnExpress",
+      "id": "776b90fc411fb948",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập doanh nghiệp",
+      "title": "Giảm 30% thuế thu nhập, tiếp sức cho khu vực kinh doanh nhỏ - Báo và Phát thanh Truyền hình Hà Nội",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYTR4ang4UlJLbHdxOWIxSHBWd2kyWFNOWGhfYlVfTkRfM1Y4SnhJQk03LVlPUzZteTVsM1ZtUkE1SHlhbzhVSWt5YThlN2I0cVJ0SjRtVU9GQkd6d0FINmZlSGFRcUZ3Q1pJeS1MZ043QnJTRlE5dk1wSTBQdXlNSV9UUkdiaUhGLVdwYjUxdXZjdzVoaVE?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 06:12:21 GMT",
+      "source": "Báo và Phát thanh Truyền hình Hà Nội",
+      "id": "3e227270e5c94e9d",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập doanh nghiệp",
+      "title": "Doanh nghiệp 'đắp chiếu' nhiều năm, Cục Thuế bàn gỡ vướng đóng mã số thuế - Báo Thanh Niên",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSFVLMG1nUHV5c05PeEFmQ1NIMW1vNFl4Rkd5ZEZHVEdkdFpQaUJ4ZWlTUzJ3ZElxWHlvRE1NcGs3aENRWjRhZk1CVkFkNm1wWFBYU2dMYXNsVlhxSzg3Y05PSFNnZUotRzJUQzRWVXUtWEsxUmdPTnBwMnFkQm1ZUV9HdjB5S19zVjBNNzY4Qjd1S3ZWY25xTkJKYkgwZTBlY3lGUDJMTWRKYjBIUm9JUF9tT04?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 14:49:00 GMT",
+      "source": "Báo Thanh Niên",
+      "id": "d72f9e7533e41147",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập doanh nghiệp",
+      "title": "6,8 doanh nghiệp gia nhập, mới có 1 doanh nghiệp rời thị trường - Báo Tuổi Trẻ",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVWJoT2pLOGtZYVVIWTV5YWNOUnhydWcxMlhtcXYwX1REeklqWlBUcEJFZUNmQWZEQllaNVB6ZHFzTGlXbGJleUFjLXRtR0x3WEc1NERhS3hBS2EtaDZjNmFReVRydUhudDNmN2ExSFlNb0cxal9UX3BnMmJWcDdiV2FEYlBINHNMb0tkZVZXa2RoWDFaWTZxbHBqRUFqMnBPQjExaXNB?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 14:35:00 GMT",
+      "source": "Báo Tuổi Trẻ",
+      "id": "7a4d75747de311b4",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập doanh nghiệp",
+      "title": "Giảm 30% thuế thu nhập: Thêm điểm tựa để doanh nghiệp nhỏ bứt lên - Cổng thông tin đài tiếng nói Việt Nam",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQWlITFBOeUs4LWZkWnlkQTF2aUduNFBWYnBHci1lRXNhWkR2ZjVSYURObDZSbmRjSmtBMHlwX21uZk9QY1h5VDlGajlEVTNpZXdmX3ZWU0ZxU3VGX2taVWdGbFBRZ3RZUWM0aFRISXp1SDhIelJRSHh0RUotTEN3dnRXWlA0WjNnQ3Z4dEVWT0xvcTNRSHJfUEM3YVJfRFpVMVB6Vg?oc=5",
+      "pub_date": "Sun, 30 Aug 2026 09:46:16 GMT",
+      "source": "Cổng thông tin đài tiếng nói Việt Nam",
+      "id": "8ddc1956e5150c73",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập doanh nghiệp",
+      "title": "Cá nhân, doanh nghiệp doanh thu dưới 10 tỷ đồng có tin vui về thuế - Báo điện tử Tiền Phong",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOE1CdkhJOC1XcklreXVrOEIwWEdMX2kxUmJRcUthWTNJdnZ6aVJlZWIxdENhNld0dVQ5WjNIdEVxQnNVV1dBTHlKcGNzRHBLSkVYV0tKN082X19seVJCNldvc2oybHlvbGJQMnZVNl9GVE9PVk9yVDdkNjNSaTlRUjVtdWtEX0pSQ2Myb3I5XzJpYmVTeUZiWVZUT0lRVmhhY3BXeA?oc=5",
+      "pub_date": "Sun, 30 Aug 2026 15:58:41 GMT",
+      "source": "Báo điện tử Tiền Phong",
+      "id": "625753986d903568",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập doanh nghiệp",
+      "title": "Một số điểm mới về hạch toán thuế giao dịch tài sản mã hoá - tinnhanhchungkhoan.vn",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPekdVMG9Dc2FLeEFfYnZQXzVkb0xDNTlSOXhScnNTX2JVV05qS0w2bkRFMkZLS3NfWE5GNml3UjlrQ3UzR2xqc3k4Z0d3YkhrLTdHWGlaVFdsekoyNWhaWnF6aGdJUV95Z2RKbHVabVpYWGkzUExmX1RMUmxFSUVHME5vNDc2TjhwVE5OREZyVjhwa3YxRm1yZlh1YUotUXpYdkcteVhHMmJvSGR60gGoAUFVX3lxTE4xR2E4bmEtN2Ezei1xN1JkMzdqakh6eXl3R2F1TENSdkVkWWNYczdxY1NHU3czdzZoUGI3R29BSTZiTVBDYl8tZVFiZ3VoeVBCRzM4S3RZdDRkQTdVelJndDRnXzRNcXV4TkZ5bklXVHhZbllKYkFJWW1EVi1CNWg1ckNfQ3pjOHUxMXlqekxpdGpLeXh3a1BuX0JVNFBnZDRody1qUzNzVw?oc=5",
+      "pub_date": "Sun, 30 Aug 2026 03:16:50 GMT",
+      "source": "tinnhanhchungkhoan.vn",
+      "id": "887964c073f666fd",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập doanh nghiệp",
+      "title": "Loạt dự án BOT được đề xuất miễn trừ chính sách thuế bổ sung - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQV3ZRaG1mVFotSW9jUW5na1pDRGpmN2Z0MU9ySUNpT3hsQ0J3LTd0dGNnMW9hQ3ZQNEYtQkpZNXFYTk9MVUtMRTJyU0xaMEZiV3RnZWo3cDRGSjdDZzg5YUxFd2VJZzBNY2h1cGEzSXJTbTdoTGVxMmNXOTloNERaQnoydUdYWURzNjNr?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 08:43:57 GMT",
+      "source": "Vietnam.vn",
+      "id": "b42793632f9bb6a8",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập doanh nghiệp",
+      "title": "Giảm 30% thuế thu nhập cá nhân, thuế thu nhập doanh nghiệp trong 2 năm 2026, 2027 - Báo VietNamNet",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR2lFeV9IUFJyZHE3akNha1lfV0UtYlRHb3p5YkNDdlc0M0FUdm9aYWR1UzNJNGdfS0J1MXNFUks3dGZGQmlYNlNxQzBWWlYtZTZnRDdDTUFzLXlrb3MwX0IwalRxaEJlTDdydExrdUxjcHBKbDgtUWk3QUt6OHF6RGRGNTFpS29NOGVsZWQxQWJVcUxHTlFUbHd1dTFRWHVma21waUVCOFJKd3F1bFI0?oc=5",
+      "pub_date": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "source": "Báo VietNamNet",
+      "id": "c0c1f95ad64c1884",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập doanh nghiệp",
+      "title": "Sửa Nghị quyết 107: \"Cởi nút thắt\" thuế tối thiểu toàn cầu cho các dự án điện BOT - VnEconomy",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT1hIWnhlcXRzeGFPZFp2a1ZrTnlzODlzTnZ3Y3V1aXFrWFlBZmJ0d255ZEVZT1RRdEdaNVo1SUtJVzd2RmlxUnc1bjFDaDV5cFdXNERmVVV4RS1HbGkzUzZINmQ4MkRSMlVZRnpHVFRhS2paMVUyOGpHWHhjeDF6UndScnJhUnA5NDBIYTUtcnRRYWdhc1l4cG9mOWV1MUUxRVZfelVn?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 09:28:38 GMT",
+      "source": "VnEconomy",
+      "id": "d37cb359c2730c1c",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập doanh nghiệp",
+      "title": "Luật Phát triển đô thị: Hàng loạt ưu đãi, hỗ trợ tạo sức hút đầu tư cho doanh nghiệp - dangcongsan.vn",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPY25UV0FBVkhJakVseWJiazdZM0t4dmJtMnhreWYwX3NJRDlGQ3Y1SzlyMHdvRFZSWGZmTExEQ3NZOHF3Wno2MGktNEVNdVlBQTI2WE5PUGpDTGFSOE5pQUh0LXgzTDQ2S1U4YWZnbFliTmQ4X3N1Uzh2NFJyUE9XN2hTNVlTcXBVNDI4ZFRDUzdlZTBjMV9VTkwxSE9Cc3VQQTJXWlpOZ2JUeHg1bUZLdDZOQTAxSlZldW5zZlVBRW5vOWpOUkhwYXVrNU92ajlXOEpMM3Bxcw?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 06:02:53 GMT",
+      "source": "dangcongsan.vn",
+      "id": "1cb38a12ad463d90",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập doanh nghiệp",
+      "title": "Doanh nghiệp đang hưởng chính sách ưu đãi khác có được giảm 30% thuế thu nhập không? - Tạp chí Kinh tế - Tài chính Online",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQS1F2YVVLNnE4LUE4amZlS1RZTHJwczRGaktFdFZLZFMxMDN0bk9fQzBwM250UmY2OTlEcmEzOS1QZDY0S0NkYjlVWndrQTRicTU3QTh0THB2aWhNVEwxT05Xa3ZyQzYwQlB2aGt5cTNkLTRSNjgwbXlRbGFJaU5lVFBfYkxfZkVxYXUzRVBITnc0Q1hhSzVEU1NpYnNKeUFnZTBHcmFMMlNGd0hIc0N2bFFWQ2NfZG8xZkExNlpiZExRWTNNcHB6ZEZ1Y3JUcE50N0VyNg?oc=5",
+      "pub_date": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "source": "Tạp chí Kinh tế - Tài chính Online",
+      "id": "c86883aede22bf8e",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập doanh nghiệp",
+      "title": "Vi phạm hành chính về thuế, hóa đơn: Đối tượng nào bị xử phạt? - Báo Phú Thọ",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORmstTk1hTGJsa3FNRlNvenlESm9SVW1fT0tDLXMtV2hELTFNZVM5YVNsTTRaVGx0bTBoRG42azNJNU5VM2MtaUgtU2laNXFycXZpdHVnLUdXV3pQS1AyWVAxODZia0dZYmluNEZYaFBZZExIUW1TRU9rd09VMFp4NE1wYkRWNXAxU0RucUZ3ZVhpQmhpVHc?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 08:09:00 GMT",
+      "source": "Báo Phú Thọ",
+      "id": "65f93a4b54121bba",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập doanh nghiệp",
+      "title": "Đề xuất bù trừ, hoàn phần đã nộp khi giảm thuế, Bộ Tài chính nói gì? - Tạp chí Tài chính Doanh nghiệp",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObEQ5UUt6VExoZnhxOE4yNlRMTUFVV1VHQ3E2bmJJYi15T2poSm5ZN2lxMmFISnhxU1hGSlRLMFNJdUNMRXh6ZEpLTi1BQTc1UjlzQzBUV1RVVlFNWGxwZ0VOQXlQMGk2YWZza2dHRnpxUFVjblFZdzdGel9NWkpndFc5ZGVSY0xYRzRzY0JZU05tdzBFaWVLbE5wQkpJTWVuNXNOZzVwRjFoYTdVdGJ2SmRR?oc=5",
+      "pub_date": "Tue, 01 Sep 2026 08:38:00 GMT",
+      "source": "Tạp chí Tài chính Doanh nghiệp",
+      "id": "072084b90c64a9f9",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập doanh nghiệp",
+      "title": "Cục Thuế tiếp tục hoàn thiện quản lý giao dịch liên kết phức tạp - Tạp chí Kinh tế - Tài chính Online",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOFlUdE5Zb1BrdmJ6MXBSTlc5by1RUUMtcy1MVHRmNkZ3UXRNdGJnVUYta1VvTElQNjlrUUtrZEtZZ3BEOWlRd3poelJ0cTdNQmxacDM5QkxYWHNuazE3aGRmTXkwNjJZWGxIUlRzTXZ6cVE3WjBXS3JQaGowQmRkdEpSNS1saGtZejlwcmxUelBjM0xjLWpKU0VSSDlVaG96cjNkYVBySE9vdl9iSTc5WDFhVk4zV19tZlEzYg?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 02:14:50 GMT",
+      "source": "Tạp chí Kinh tế - Tài chính Online",
+      "id": "18d5bf085adc50b2",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập doanh nghiệp",
+      "title": "Chính sách thuế 'khoan thư sức dân' - baotintuc.vn",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9KejhQdW9xX3gtazlFZG1fYUdJa0NvbVRzblBFd2NHTGNuS2pKQ2dPM25BX0tXdkpkWVo1c0xCMDgzVnM1U0UwTlFlY1NETjhmQUJ2eFZ4QllTY1owR3hZMnpQNl9pTk1qOWE3VDhyUWlvY2w0VldGUQ?oc=5",
+      "pub_date": "Mon, 31 Aug 2026 10:30:00 GMT",
+      "source": "baotintuc.vn",
+      "id": "89229e38679e1009",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập doanh nghiệp",
+      "title": "Doanh nghiệp cần chủ động thích ứng với loạt thay đổi về quản lý thuế - Cổng thông tin đài tiếng nói Việt Nam",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTk9pR01kaVhGX3FzbXhTVWVsOUE4dFpoQmE2VVcwajZneUJMR2tzU2VOaktHbEdUT0FsZXV5aTFhcVAzRGRqeTd2RnZLTG9UOGdWcldJbHIxN3lFMUVjb3luMzJ5WVFBNFN6TnZ1Y05iR1M4SC1paUx3M1Y2TW43NFJHdXVvNXpDUGZKeFJmUkF1dUtIN0RobFZNbFM5Z1ppVTVnOA?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 05:38:01 GMT",
+      "source": "Cổng thông tin đài tiếng nói Việt Nam",
+      "id": "1d572abc21d87835",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập doanh nghiệp",
+      "title": "Ưu đãi thuế 30%: Làm sao để doanh nghiệp không “ngại lớn”? - diendandoanhnghiep.vn",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZE1XaXlwY2pFMjZCazlXb0wxNzFlSEJ2RXRac25LX0NRWUhUVXVXNjhRTm1YX0Z5YTR0UG1MaERJT0xzQXNmdVZBbHlQVk14OXphZkNHQzhIVWdWcTJ3Q3AyTzA0eHU3QWxVM1RGdGs3Tkxmb0dwOGtkQzl2UTBVUlRMRzBYNG5ZX2tOMHgwQ2JsRmRsQjN0dXBLUl9IQQ?oc=5",
+      "pub_date": "Mon, 31 Aug 2026 21:30:01 GMT",
+      "source": "diendandoanhnghiep.vn",
+      "id": "e7d387bb79fa57cc",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập doanh nghiệp",
+      "title": "Bổ sung tiểu mục hạch toán thuế thu nhập từ giao dịch tài sản mã hóa - Tạp chí Kinh tế - Tài chính Online",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTG9YMHl5Qms0M2RYUkpSdG4yQVYwekxNVnVEZU01UFF4RTdGZFQ4Z2Nsb1ZYTER0U19SN0MxNjNrNUhYNUZSdHAxMUdjSW1NbVBtamtLZ0cyc3R5dm5FSHdaUy0ta0xFUGlLdS1QQUhEOWY0dW9ERkJUbzBOZVBBWXF1UlM3UDVMWGRjM19LQzFiZzU0dXNlNUItcy1XSW81QkZnTlJoZmJhdk9wWTdjNzhB?oc=5",
+      "pub_date": "Sun, 30 Aug 2026 04:13:38 GMT",
+      "source": "Tạp chí Kinh tế - Tài chính Online",
+      "id": "ee7feb2b18b8b7aa",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế thu nhập doanh nghiệp",
+      "title": "Chủ tịch Quốc hội Trần Thanh Mẫn sẽ thăm chính thức Hàn Quốc và Mông Cổ - quochoi.vn",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9TRUZtUGhPSERlVk4xZWExWERHNkRUZjBmeDFJTDE3NzhXaHo3bHBFb2U5el9LS3NmZnh0ejRCb3V6R2JRVmVHS2VMdXpUUmJmQmtKbG9NVkk?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 03:37:14 GMT",
+      "source": "quochoi.vn",
+      "id": "ca0af673519b9ad9",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế tiêu thụ đặc biệt",
+      "title": "Thống nhất trình Quốc hội xem xét các mức thuế đối với xăng, dầu, nhiên liệu bay - Báo Quân đội nhân dân",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZDF5NTZjSndXVXB3aHpVdWVIOEJ3TzBwVHV3WmEtTjBSQVc0V0M0eHZncDdmTVo3alVuMFd0WV95NHd4bGxhYS1xMXp1LWNYX1c4d1dLV05MdVBVcDdiU0ZUekhnUFYzaEdOOXhSWVE5SjJQVG9CNE1NczN3Zk5hYWZCTERCOUQxVDIxNi0xU0ZqVjd6aFJIN0RqN0JCekZkWjQxSm44THI3YTlMMnNmR21XZDUwTkRoVXB3aktyQ1hSQQ?oc=5",
+      "pub_date": "Wed, 02 Sep 2026 07:25:22 GMT",
+      "source": "Báo Quân đội nhân dân",
+      "id": "659898e91d4762e6",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế tiêu thụ đặc biệt",
+      "title": "Thống nhất trình Quốc hội việc miễn thuế với xăng dầu đến hết ngày 30/6 - Báo Dân trí",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaGl3b2RSc3NrZHljZVAtZThsZXBuLWFyQlRTMDRaNHZZM0h2ZGRQZGRpdzhqUWM0RjdLZzVWM0NUb2V1dmVHdEZDMDR4TW5ZdFdubldSSTYwTEFWcXFLZG9UNGdCRE1jVlBFcVBGZUwzNi1talg1clI1b29vSkE4MEFiREM3V3JncG9MRXNQSXdobzBTVmlsblhyUmF1dmpuUHdUYUljcmlCYmRhNExsWWJWVnBOZDZva0Jpd0FsZVc3N1U?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 07:45:00 GMT",
+      "source": "Báo Dân trí",
+      "id": "0d4e03a34babb8e6",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế tiêu thụ đặc biệt",
+      "title": "Thanh tra Chính phủ đề nghị làm rõ hồ sơ chứng minh hàng hóa xuất khẩu khi sửa đổi quy định về thuế tiêu thụ đặc biệt - Báo Thanh tra",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQcy1Cd3NYV3V0U0VOU0tlUWFBZ1U3aXVkQ293VmhoWld6RlRCcjhWLUpwX1NBalUxdm50cXVHbVVWTEFYMENtZTNJTEpucFJmVkZKMFhsWE10SmhoOE54MFV4dC1ERHJ0eTl4WUR5R2NibUFBWWk4SW52R2VqVmpLTy1RYldudDZCQnZUNzl2UXk0X05BMk0wbWRLYVF2OF9LVjc4bWtVazB5YkNIelpCQUc0RndvRzIzRlNJbUU3dVdUR3ZhQ3FWa3BrNE05SFJrUlBGTkcyOUN6U1lKbUNiSUhMTlBYXy0zNElkZzduU3VaYzBOczVpcGpGOVhEb0NFVy1mMTgzSmhCRFM5ZUc0?oc=5",
+      "pub_date": "Thu, 27 Aug 2026 03:03:38 GMT",
+      "source": "Báo Thanh tra",
+      "id": "faf21e197f327ec0",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế tiêu thụ đặc biệt",
+      "title": "Ủy ban Thường vụ Quốc hội quyết định giảm thuế bảo vệ môi trường với xăng, dầu về mức sàn - Cổng thông tin điện tử tỉnh Hà Tĩnh",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd1I4UUEtNnBNcjJ0X0RxUzU3bUZXQ1cxX0lzbUNXOEUyR2RTVEgybXdVWlhhdUs5MG9DWnRxbnF1NDI1Q1hNazVYTDFzdlFESVhWUUQ0SG1oaVhGVF9mekdSWkFLWkJVX25oVlZjQXAxZUoya3NsY3NNRlo4anQyNlM1b18zUTNVNFBKYXBuS2RuLUtBT1pnRzF5UDB4Vlp5MWh1M0RDQnpCRDRJQVpCYTJQNXlDQVJGb2xHQUd1RQ?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 17:06:20 GMT",
+      "source": "Cổng thông tin điện tử tỉnh Hà Tĩnh",
+      "id": "184f4e686fabc869",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế tiêu thụ đặc biệt",
+      "title": "Một số thông tin về việc điều hành giá xăng dầu ngày 3/9 - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRW1CeUZJeVBoOVlLZjZHWEdsT1dackJwYXE3TUhET2kxVHlmMi1uamptc2k5a2F1czREcUxfUnZYZ0FNVWN6TkZKbjJvZE9Xa3JYZTYzbF9RTTgtY1dnZDRjT3hJT0dmbWRmZC1fVmozZ3J5VjNIVXRhZGQ3cHc4alpzYldsZw?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 11:23:25 GMT",
+      "source": "Vietnam.vn",
+      "id": "df3f26d40009049a",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế xuất nhập khẩu",
+      "title": "Giá trị kim ngạch hàng hóa xuất nhập khẩu qua Cửa khẩu Quốc tế Lào Cai dịp 2/9 đạt hơn 45 triệu USD - Báo Lào Cai điện tử",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLUcyMUJGd2Vmb3F6dmhpQ2FqTVV3YVBuWEZRVTExYWotYTBkbTJESWluNk51ZTl5a1llU3BtbDNHT21yekpXdEdDX0VUM0duWlVRcGVFN181Y0hCZE4xT2RYbEVVM0Q5akxsOWdFSzhjOXhTdzBLMEtwYmpyNFlkT3RwSEdfQmJId3RSamlLMWNjSjVWbTkxZVZLRWZWX3NJOG4zV1ktUWwwYmtWVkg3ekxlRjNnWXJOcFN4Z3RwNW84YnpwNnBGMmdLQTdFWWU2?oc=5",
+      "pub_date": "Wed, 02 Sep 2026 13:15:39 GMT",
+      "source": "Báo Lào Cai điện tử",
+      "id": "0783f51ffa746770",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế xuất nhập khẩu",
+      "title": "Hoạt động xuất nhập khẩu hàng hóa qua Cửa khẩu Quốc tế Lào Cai ổn định trong 5 ngày nghỉ lễ - Doanh nghiệp và Tiếp thị",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcHZNZmd0b1l0cHNjRkxTRVVuX0xzbXZRVXEyM21FNFhOMndMV0J6UUxmTURPOVRobDRtdm4ydkRCeDFudktXSDQ2YTlIUUtnNzZjcS0xOFliRW55WG1ycmFvc0xiWmJwZ1hGWGd6UFEzMVFxOTJZTEc3NTlhM0JyM01QUHBOc2s3NUhMYWZ0U0hoOGRZOThRQXJmY21ReUp0MkU4aUxQcy1Md0VtZ3lrTzJDSWR6R24xaTMxNmhKVUNWcllnNGZkaGZzaDBTZW45UnpiS0dFTlNoS3Bm?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 10:27:00 GMT",
+      "source": "Doanh nghiệp và Tiếp thị",
+      "id": "021e552360f23c9c",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế xuất nhập khẩu",
+      "title": "Hơn 2.600 xe hàng qua Cửa khẩu Quốc tế Lào Cai trong 5 ngày nghỉ lễ - Laodong.vn",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTmFnUmhZb1lGS0Y5M3MyR3lKel84Znd6NEE0QlpUcUJHTzBwdmFSa0p5Rk9maThVWUdKQWIyUVQ5N3NJYzViYlNpcG1SLWpyRnJUb0pnRUdwQTYtakdKS202eksxYVgzNWhNVkJwTkhIcWVTeWZfSm9adnBCLTNMdFBEWjFxVXRQZ0pXc0RBay1ZTnh0TS00Zl9tbC12VXVseGNMWWxIY1hERlM5?oc=5",
+      "pub_date": "Wed, 02 Sep 2026 23:01:24 GMT",
+      "source": "Laodong.vn",
+      "id": "93dcc4f1a49c9968",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế xuất nhập khẩu",
+      "title": "Hơn 45 triệu USD hàng hóa xuất nhập khẩu qua Cửa khẩu Quốc tế Lào Cai dịp Quốc khánh - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT1RqNl9pRU92RXlWV3BSV3lhQUctR01PV3RXRWFhRXp5MXRVY0ZBMExPUzRQLWt3WmtrbkZodkxkcENJZF9jOEpXQ3ZDSUxfNUV5eFBwc0VwXzNWc3c3ckZWdWduam4tNHh4YUptaUs1b3ZhRWtDWllRX2x3eTBjQzhnREpucEYzYTU2ZHVIY1JYcHMyWE96OWVkelhDWHJ4NThEN0FBWGlTeFE?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 02:03:04 GMT",
+      "source": "Vietnam.vn",
+      "id": "acaa35db992fed47",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế xuất nhập khẩu",
+      "title": "Dự thảo Nghị định sửa đổi, bổ sung về biểu thuế, ưu đãi thuế, danh mục hàng hóa,... - Báo Lâm Đồng",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeVdzRERiR0xoTEhBTTVqaVVGRXdpQ2FUSVVaMDlvVHVLcU55V0ZZRC03QUhWeHBCRGFzc3B3b1FuT09EbEl0VW54clZINTBLR3lIbDFrMXg2VlR3a1Y5RDlZd29sY1g5UDRFbzFvWFh4T0c5Zi1zOEI0SkZZUmJtMVpCcjhIWFhyR1dVOEVLNVg3OVh0SDlJcFVTRC1GLU5kZU0xX0N1SGl3cDZPSmt3?oc=5",
+      "pub_date": "Tue, 25 Aug 2026 22:18:20 GMT",
+      "source": "Báo Lâm Đồng",
+      "id": "62b627a2e460979d",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế sử dụng đất",
+      "title": "Thời hạn nộp thuế sử dụng đất phi nông nghiệp theo quy định mới - Báo VietNamNet",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRDFTWXNBektadmJEbEc2YTlOcE5YLU5jeUhsRWU5YWg0RUJmOV8yNUVfYzBOOU5rMFM1UzJjTWNRV3NYSE9sMVZMR1FpN3Vfd2xnWmhOdGpuWVg3bk1rbllUdTliZUhZQmRJR3VRQnl1SzFIOXZyVFQzVkdSVWdsYU5pY21zWDIwbU1QSGVzMnNKb3NTSFFjaHJrcWJjN1U?oc=5",
+      "pub_date": "Wed, 02 Sep 2026 08:42:00 GMT",
+      "source": "Báo VietNamNet",
+      "id": "37bcfb566a4a5d6c",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế sử dụng đất",
+      "title": "Các mốc thời gian cần nhớ để nộp thuế sử dụng đất phi nông nghiệp đúng hạn - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMVVhLVpmUllEc0J2VmQ5cHVwS0xiaV9iT0k3TW9xZE5uWERMNDBkUDZaVkpLWTNKSGYtY0JVbVM4U3U1d01DVndYQTJxT2p2TzNqWUZWaTY2bjFtUV9BRU9wMmpkWTBVbDJGUktVdDJMbmNlMngtanl1MDRlb2xJWHVoTUxkLVphSFEwenNBVXBLRzN2c1hsUlpMcmRkQQ?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 04:59:39 GMT",
+      "source": "Vietnam.vn",
+      "id": "bf669b41920e288a",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế sử dụng đất",
+      "title": "Nộp thuế sử dụng đất phi nông nghiệp: Người dân cần nhớ những mốc thời gian nào? - Báo Dân Việt",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRHJRVkdScjlwNC1walcwdF85R0dtTXVRMDhaa3FyOTZydkcxaFcwZG1DTE43clJyT3lYak9vM1czSjBOakR6YzNpLW93QmI5TG9hU3IzcHpiS0xyVnZISENFNXRsckxoRndfcXNqa01CcWZKVzBveHJsb2lKbkxkRk9Eb1ljM1NET1lYVkY4ZlY3b2hGN1A2MGlXZmptU01iazdMb1lJR0RWMU9VZ1RaMw?oc=5",
+      "pub_date": "Wed, 02 Sep 2026 23:10:00 GMT",
+      "source": "Báo Dân Việt",
+      "id": "5626ce028a6a9fe8",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế sử dụng đất",
+      "title": "Cách nộp thuế sử dụng đất phi nông nghiệp trên eTax Mobile - baohaiphong.vn",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUzVOQ0tJQUZOM1l6a2tqTjZqemp2ZmVOSG5Vem1hUHBxR2ZfbnVhc042U25URXNMblVsblhVVEFMTzNLeUw4Wk5IRDNSNHk1LWVpWEFya1pIbExQZVRhNlpFTHFCcklzZDQ4azhpSkljZUlOdmR0ZkhTekR1RnZ3Q1d4Z1N0VXlhS0Npb2dIR1NubE9wYlkzeQ?oc=5",
+      "pub_date": "Tue, 01 Sep 2026 05:13:01 GMT",
+      "source": "baohaiphong.vn",
+      "id": "247bec4a3858f13b",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế sử dụng đất",
+      "title": "Thuế tỉnh Quảng Trị mở điểm thu, tạo thuận lợi cho người dân - Tạp chí Kinh tế - Tài chính Online",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZDlWbTNzYk5LbTVXN1lTSHlqajZfd3lsTERzZVRvc0FDZmxILTlTNUNOMkxMVWVzeU12NzBuOXhLbVJMelBQaGxQbjlrRDVyOUoyc3NVQ1ZTWUljMHR5RlFld2pURVkyamI0dzlIblM4RS1pazNKMGpXYW5STHdyRmNPYk15cUlxd05laUZ4XzBUcnRrS0ljNUoxQmtaN3RWWEdOaHI5V2k1R0JkQ2ZYWnNNMmZRZw?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 08:54:19 GMT",
+      "source": "Tạp chí Kinh tế - Tài chính Online",
+      "id": "baa65c3d9f717468",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế sử dụng đất",
+      "title": "Chi tiết các mốc nộp thuế mà người sử dụng đất phi nông nghiệp cần đặc biệt lưu ý - nguoiquansat.vn",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMlhaVWYxcVlMby1pSjNpeXViRUdoTEZmLU0wSDJ0aVZxWDFweTBsNmVYNlhNMVcwd0NOZUN1UHBQRlNORGpHcnhjdGpZTW9aSlVEa2lzR0pHeTFRamN4VnFxS0w3blU3ajktLWlLMFJGQWxlUU1TS1V1anQtT3FfOVYxdS1IcmdaTk9xcmE4MnpnZlg3M2dERDF5SHVLRl9xQlpmSWFueEVJU2plcU00M0dqcTVJN052?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 07:30:01 GMT",
+      "source": "nguoiquansat.vn",
+      "id": "6bf1a144860a6895",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế sử dụng đất",
+      "title": "Cách nộp thuế sử dụng đất phi nông nghiệp năm 2026 trên eTax Mobile - Người Đưa Tin",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNmFkbU5Gc3Y2M2tZa0c2cVh3cWdEamlocmlVbmpiaW9rZzFCUTQzR1NZaFBrdzc4MHlYV05Lem9nQlpTVE40SkYzZ21lSm5RZ3BFUG1jRFltSHdBQjhnOE9ZOHNTTG5DVnZTR3lqdS1WbS1OV3ZxMG5vbmhMajJNYy1ZekU0T2ZNSXdOU1BUbUJtM2RYRXJyd0g4ekNpMkVUcUwyOGQyM2tndUhnYms2bWlfaElsdFR3?oc=5",
+      "pub_date": "Wed, 02 Sep 2026 23:00:00 GMT",
+      "source": "Người Đưa Tin",
+      "id": "b6d2b163d39c88d9",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế sử dụng đất",
+      "title": "Thời hạn nộp thuế đất phi nông nghiệp theo quy định mới - Báo và Phát thanh Truyền hình Hà Nội",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLXJ5LXJxdXA0aTlleUZGQjZOOWVBTDZ4Nm8zbi1wdm95LU5mQXRmSHZPU0JDbWh6eXRCX0ZfeVpFTDBSeFBLSVB6elowa3F3UGJENnJFc19uQ3FWaU9BdlRGSzdOd3FOb0VOR3h4LUItZ0FEMklGTlR2dzNDT1hMTU9WNlZiV2oxZE0tUlNGOVhXcmc?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 11:46:57 GMT",
+      "source": "Báo và Phát thanh Truyền hình Hà Nội",
+      "id": "4c6c2a57eb9ea4a5",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế sử dụng đất",
+      "title": "[Infographic] Nộp thuế đất phi nông nghiệp 2026 dễ dàng hơn với eTax Mobile - Tạp chí Doanh nghiệp & Kinh tế xanh",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT1Nzd1FXbFhjZmJwbWpzTFVZYWIzcDZILTk5MWlRTWNXdUhjQV9MMkJIUHdNN1F0Y0h4MjFpNUlkV2h1eDE1SzE2WXhtZFJTODM4UVkxSHVmQ0NHUEtBRkh6QkdxU0x3bDRZbXZvYTBmbllTbTN4MkdjdUFaZko5MVdWd1JrSG5ZS3U5RTRiWG9PUjhwNFQ4TE5kY083UXRveU5tVmU0b0MxZTlzRGY5dzZ0ZXdJTTJybUE?oc=5",
+      "pub_date": "Tue, 01 Sep 2026 23:48:19 GMT",
+      "source": "Tạp chí Doanh nghiệp & Kinh tế xanh",
+      "id": "043e792dc3283630",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế sử dụng đất",
+      "title": "Giải đáp kiến nghị xem xét thời gian gửi thông báo thuế và thời điểm tính tiền chậm nộp đối với thuế sử dụng đất phi nông nghiệp - lsvn.vn",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWTNMWWdFZks0cjJkVXAzX0F4WjhhNFZnT1JHb2ZBck9KXzZ5YmtLSVFlVFJCdmVJLVUxbmRZTUVjLVZocnNFUWhYNGQ4T0FkS2l6Wnd0b2F0T0RrbFc4aGNvWl9acDROeHVGLVZ3WnNRdzIwYTVfRWFzc2UycXpwVHg3Z3QxNThDVktlNFBJWVE1Yk83OC01MnRkR2l1aG4tSGJleWVNYXJNb0dpc1Q4LUdLbzF2OTljMlFHZjhkeEFXTW0tOE5RN05XdWhCbkFGM0J0YV9VbVo5Vm5oQU9jNDZMVEtyUndIN3dRaGR3?oc=5",
+      "pub_date": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "source": "lsvn.vn",
+      "id": "9006f07609e9e6e7",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế sử dụng đất",
+      "title": "Quy định mới về hạn khai thuế khi mua bán, thừa kế, tặng cho nhà đất - Báo VietNamNet",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZjdXRHRndzZISDFyV2FhRzExMG9IMnd1Q0NuZmlBSzIwU2JnQllhdWIwUUQtX2hzX2xsZm9mNHZjT281aFY0QWNPcDF3V3MwdncwbnhYaGJyLTFfTHd3ZzV6T3FzQUlWYjV4UnhXREZPY05VT1NQbmsyaHZ5RUxlbEdWcjdUMG80MjFQTDVMa3FRbzZObGxWUzFJSVNpNFdfd0Qw?oc=5",
+      "pub_date": "Sat, 29 Aug 2026 12:37:00 GMT",
+      "source": "Báo VietNamNet",
+      "id": "2f3654749da75219",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế sử dụng đất",
+      "title": "Hải Phòng đẩy mạnh hỗ trợ người dân nộp thuế qua eTax Mobile - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOWREclBvSndPWVFHNy1abjEtU3oxTjBqUk1pMmhGYnJ2ekdnVXdGNkh3Tkl6QWdCaHFiXy1fM2tlQUM2YkVrdGc1NF9OaEtQSlFneUVONGI5WWM1bkRhTlNlMW11R1hBOTE3T3BSZmFEYjJmQ0NtNzBBOURqWm9jSFZlekx0eHh0YktF?oc=5",
+      "pub_date": "Wed, 26 Aug 2026 01:23:22 GMT",
+      "source": "Vietnam.vn",
+      "id": "eb75534ca4a3223d",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế sử dụng đất",
+      "title": "Hải Phòng đẩy mạnh hỗ trợ người dân nộp thuế qua eTax Mobile - baohaiphong.vn",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRzFVcldZaGpDNGtyTHdJX29XTVozRmhJemdJMVFyWGh6VWJKVVM2TGpCS0dFRWltbl84RUJ2a1FVS1FmbHJFRGtFdnVwVzZOTDVJUklwVXpjVDRZTF9lRmFwbWMzYXktNDBhQ1RBbmZMUEc3REszaGNrNm81dm9BQnVDNmZWNng3YnRMdUpTZUtIbzlUMDhyTzBqWQ?oc=5",
+      "pub_date": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "source": "baohaiphong.vn",
+      "id": "b25ec79340dd1e54",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế sử dụng đất",
+      "title": "Cơ quan thuế thông báo đến người dân chuyển nhượng bất động sản: 3 khoản thuế, lệ phí cần lưu ý - CafeF",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPX21CUWFxXzJmQ3ljZFVNOWFjZFB6cWFkSThyUVVpRG45OGVELUhEX1h4Q2FKbTE4Q19hZm9ZdXNKS1BWLW5fY3Utdjd5Sktad1hpLVFEbzVPWlR6cE0tSWx5M0ptcG5GWWdxTWVxNnhVTkkzckVtTmZCdGliMmZyRUJncWo2Zmo1SnBuUUFJVUM5czFDMzhIVmtCdjRVa1gySmoxeE5yOHQ2dmxzOVN6ZlIyUENUUFNRMmJpZHVfQmFnYmRNemFvZ29HREdIdw?oc=5",
+      "pub_date": "Thu, 27 Aug 2026 07:00:00 GMT",
+      "source": "CafeF",
+      "id": "e14e747ee3065cd4",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế sử dụng đất",
+      "title": "Dự kiến cả năm 2026, nguồn thu từ đất đạt trên 120.000 tỷ đồng - CafeF",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUHQ3dHMwX09NYmFzSmFxM090RXlQaDJ5dm1XSi1TOEcyYnhPRVY1NkdmV3V5VW52NlBBMm52NGlWVm83TDF0aEtzZDNQS2IwMWhCLW9nU1F3RFlSRTQzRE11MlJZdElGbU1Ic1ozYkd0QXFldVM4TGZtQThFMmc1RV9GdnR4cWJqOGRCMktwY0o1cmFMY0o3a201V3pBUFo5Q2c?oc=5",
+      "pub_date": "Wed, 26 Aug 2026 07:00:00 GMT",
+      "source": "CafeF",
+      "id": "3ed514340249355d",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế tài nguyên",
+      "title": "Hà Tĩnh soát xét kế hoạch đấu giá quyền khai thác khoáng sản năm 2026 - nongnghiepmoitruong.vn",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNmhYUlRkc1pNMUk1ckhJSThHXzZuN1A0Nk1aQnQ0a2FnM20tT2ItbUlRUUgwMEZ3YTVjNXpHbjN1SmVJSWFGNlNwejh3WFdwQ0tUTXhzYUszMVZpcFgwS1pxMWJIem13Z0pvTHgxdy1UdHMya0pNd095dm56N05WUWVmUXAwYzhzMGZEVEF5OUZLZWVmQzZUdlYwRVNWVnJNRUZlOVd3QktJLXhOd0NNOUdmMA?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 09:34:09 GMT",
+      "source": "nongnghiepmoitruong.vn",
+      "id": "65dc402d93ebf446",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "lệ phí trước bạ",
+      "title": "[Video] Có thể được giảm lệ phí trước bạ khi mua nhà, đất trước ngày 1/3/2027 - Báo Nhân Dân điện tử",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMFEyTS1uaXh3cWlPYzM2N3NGYXgxOGltdENRNDVEbUlKZzRjTFljWUZ2UlljUXpRQmYyTUFTQkJaQ2t2M3pfZ3pCVW5abkRaSUV0ckpKa3B4QWJUcEwweGY2NXJJcEJTUHpLcmctdndyQWdZSF9yRnlwVDdxNW41dEpYLUxzbEN6UWZUQThrb0ZKUi1yblBsbkRBRWFDT3VEcUdMWUhNSjhLLXM?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 23:00:00 GMT",
+      "source": "Báo Nhân Dân điện tử",
+      "id": "b28c89b2fb14b8b1",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "lệ phí trước bạ",
+      "title": "Honda tung ưu đãi lệ phí trước bạ cho 3 dòng ôtô - VnExpress",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd1c1SncyRjF1NnRfZGtSc2RmeWpEeV9sOGktb1RBV1k2SEVTTDZrTHNTRm9JUFkzeUEzR1lLLWdoNjR6RnNEejZPTUtvVExQcjlxZVBIODc1dTFfbmRxV0wwM2h2WWdtQTg0VmJ1MWgxUEE2Ny1jSHpZem1wN3lwQWJCVGJKYkNrODZr?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 12:00:00 GMT",
+      "source": "VnExpress",
+      "id": "fc276729cd2e786d",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "lệ phí trước bạ",
+      "title": "Mua nhà, đất trước ngày 1/3/2027 có thể được giảm lệ phí trước bạ - VOV.VN",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSDBPVnVMR2VxM0NNSUI0YVFzT0lpMDd6WFNjaXlGN19Kd1FBRHN6eEliYnJraDBUZlktMWdXVWJoZHNjcmttMmdWZWtJRzU4cXVCV1NBUm5VWU1BVndielc2U0hxUVRuSlFxYmlBdnNDcGhiUWp0X2tDVlRnTjJEeVhyZ0ZNMlN3STFyUEZOdTVyMVIwcTJFU2Y1OXlMSUZ2Uko4?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 04:07:38 GMT",
+      "source": "VOV.VN",
+      "id": "b8ef4da283606eca",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "lệ phí trước bạ",
+      "title": "Tin vui cho những ai có ý định mua nhà, đất trước 01/3/2027 - CafeF",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa0VHam8tX2pRN2RiMjBTTDJhdFZPampoTUFpSV9uakJackt0YUtRQVdtOFVSRjJMUWVBNk9uRWhoNHRfdkZtZV9qYXVWb0kteW5kOHVpUjljX0N0dnlqTlhMckRHaEUwcWVCVEZQZFIyNHIzei1iQ0lDa0xxSFJ0WldIajBzRWU5eHY2eVZpYVo1NzFQcjRvLVJzeGViUkk?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 22:29:00 GMT",
+      "source": "CafeF",
+      "id": "912d045daa0bbd27",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "lệ phí trước bạ",
+      "title": "Honda City được vay lãi suất 0%, hỗ trợ 100% lệ phí trước bạ cho City, BR-V. - baodautu",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNXhYWXNsS2RrdEdlVm44TXhkczRXRVVmczBkOE5uTWtRUzI5SFN4WmQ4Ujl2WUIxVmc3bHFRTFJnbExZLTNUZnlHZ0hhTHFac1A3bUdlV0syTFJDWUVMOU02OFFsRGJVRlR2Tmp2TWNmUkZEMjlSYWFwd2Vydzh4SjY2eFhueVliLWxfOENkaGJhTkpDV0R3LTdkcXlrdjZzejJmZWczMA?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 12:55:00 GMT",
+      "source": "baodautu",
+      "id": "ddfc9223bca801b6",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "lệ phí trước bạ",
+      "title": "Giảm 50% lệ phí trước bạ với ôtô sản xuất, lắp ráp trong nước từ 1/7 - Cổng thông tin điện tử tỉnh Hà Tĩnh",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeVA4YTBkc2w0Y2Iwc2FjeW4tRG1RdTRXdmNCcXJiZEozejE3ZFJ5MVpLMU5wbGhMVkE3OVRkMWpvUUJZV2lYSktiZTEwZHdyNzRtQklHdnZ4RE5ESThSeGhLc21IYU11MUswazVfN0RIdDc0dVJhUEJaSjhISWdQbjZKSG90Njc4eHd0Z1RoZzBCZkNyVGkzdHM4WW5xS3RY?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 06:02:11 GMT",
+      "source": "Cổng thông tin điện tử tỉnh Hà Tĩnh",
+      "id": "15e5acabae8d61ea",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "lệ phí trước bạ",
+      "title": "Volkswagen hỗ trợ 100% lệ phí trước bạ cho 14 mẫu xe trong tháng 9 - bnews.vn",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcEdVUVl5bVc3Z0hSQURFRWUtODhkcW10b1dlVDVCaWxRU19mRGpocnBHSjMxbVpMUk5Hak1RSlZBRWZuVmJEY1kzRy15SnhRVVdlM2ROdlVmZ0lnTTFyLU9mRGNvQlRXRnM2QlJWa2RrdWYxaGsyWV9KSi1yTlIwRzVBTlZrRkVJejJfUzRzcm1QbElfbUdOaVZR?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 08:45:00 GMT",
+      "source": "bnews.vn",
+      "id": "cfe17063ae39f2d4",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "lệ phí trước bạ",
+      "title": "Honda Việt Nam ưu đãi 100% lệ phí trước bạ cho City và BR-V trong tháng 9 - Autodaily - Cộng đồng xe Việt Nam",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMlZnWlRMcGFldlp1ZW9MVzdkUndQSUlpYmEwOFhMbEhiVU9iVlpzNGpqZk00c0EzeU8yQUs0VHRYWVZqWGowWG9rYld0dkVTRGpDUjJJTXJ1ek9Ub0pxUVVKSlI5SzBMdnZ0V0lXcjZsdFZnRHp5LTVsUnFadVJLVlhIR3V2eW95MkZhZFpFSnVxM1ZkZ3o0QTJYeXl6OFZmVXozSV8zQml2RmpVbzBiUndzVGI?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 05:07:45 GMT",
+      "source": "Autodaily - Cộng đồng xe Việt Nam",
+      "id": "3677cb3d07288f4d",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "lệ phí trước bạ",
+      "title": "Hướng dẫn chính sách miễn, giảm phí, lệ phí khi tích hợp giấy tờ trên VNeID - xaydungchinhsach.chinhphu.vn",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYWdyR3R1aFVhNkhJYmpBS01OOElPRHBRb0FuY1EyOG0yNFFLeGk2NUc4M0lkbWNzdEdYSjVRVWN5REwyM3A3V0VRR2lSYUY1aU1aMlVSOGFYQmwtbkptWlFGdVF5ZmZYM2dteHB0bTNhMG1Gd190eS1MdEJPbXRJcnNwT0lJM1h3VEdaUm1yM1laNlcwdHVKeDZJZVMyZEtwYU4zSHN1Z1hWM20tQ2V1YzVHMWpUcjl2U2RlbWpKOHp1ZDAtRlBjT2RxRHVZdw?oc=5",
+      "pub_date": "Sat, 29 Aug 2026 01:49:00 GMT",
+      "source": "xaydungchinhsach.chinhphu.vn",
+      "id": "a16e4eea3ef37ac7",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "lệ phí trước bạ",
+      "title": "Trong tháng 9 này, Volkswagen ưu đãi lệ phí trước bạ lên đến 100% dành cho nhiều mẫu xe - CarPassion.vn",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQejE5SWJ3NUxJZ2loX05ja1c4ZUxHZUx2Zjg0NUhWaVRCSjZvcEZFQkNXTjQxZXB1Mk5vQ2lQSllBUUo4OG8tbk1FbTExWEx6V0pVTUE3bFJRbFN3em5rQXFkeF82dnhHWDBKQjhhSEZIWUYzc1pXNUlfMDBuclBuS3d0Si1lZHJQMHhuaW50WG8xMm1nYXZZaDY3OHkxVUJUcmJqQVhPZ0ROY21KY2tYblh2NDBjU01lRUZON0RtdkR6ck9uM2FrbkZMUnI?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 11:52:35 GMT",
+      "source": "CarPassion.vn",
+      "id": "44517af871567690",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "lệ phí trước bạ",
+      "title": "Mua Honda City được hỗ trợ 100% lệ phí trước bạ - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZVGRVc040MVRBVzhqX2ZQMzFpQUpLLTVKWFFIVjRFOExjQU0yWU91Nzk0YVJwVHJ1Zl95alRZWE1iOEZ0ZlBFaGFXOXZNOVhMSkZVMjNLWG5uUFRYd3ZfWVo4RlVvMGpmaW1jSWc4VFZlLXVuVFFWcg?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 00:57:02 GMT",
+      "source": "Vietnam.vn",
+      "id": "150b60d3fda7e854",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "lệ phí trước bạ",
+      "title": "Tích hợp giấy tờ, thông tin trên VNeID để hưởng ưu đãi phí, lệ phí - Cổng thông tin điện tử tỉnh An Giang",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaXBzZ09fSEs2S01oS0YwZEJRYlRGN1BiRXVaa21LbWl2empnQ2wwMlM1cHMtcXh1dk9xeHlJVnZvdG1HUGloeHNtVzdkV0RockZaVDk5M2pObWk5Tm51cGpmX0xsYnpEcTlaVUVYay0yblgtWjFZZTY4T09abDlSQnp0cTAzUTg5LURxcXY5WTVFOThxSjhxeWFB?oc=5",
+      "pub_date": "Mon, 31 Aug 2026 12:32:32 GMT",
+      "source": "Cổng thông tin điện tử tỉnh An Giang",
+      "id": "f5ba844f140a21bc",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "lệ phí trước bạ",
+      "title": "TOÀN VĂN: Thông tư 117/2026/TT-BTC quy định miễn, giảm một số khoản phí, lệ phí để triển khai Nghị quyết về phát triển công dân số - xaydungchinhsach.chinhphu.vn",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPaWh5NVNweDlBb0VGeUtvblc4SzRhaXZRUDVlRURCX05sWUx0My1CdzZza3VycDMyZm8yN0xBNmZNNEVnQ3ZUcnpHTW92UVozWmpTd053QlUyeS1WZXZNMTBfM0llaXBramtySjdwUGZBUjlGRXEzZWVtTl8wdkZZM3IwVU1mNFQ4eGl0d2tnRzl0YkFxYU4ySHppYjdjbmFad3pSc1pHNnRGWTdlYnVfWkcxMGJUd0J6TGtodUdRdktZLUs3NHZBRmVHcWpIdlBkRGl1Y1RJOUY1bTFNNzgweUt6dkMxbFJfTFF2T3RBYXVJZi1XTUtwX3VtLXBkZE96V0pKNEhwQjUwa1VHZTI0Q053QWVrdw?oc=5",
+      "pub_date": "Sat, 29 Aug 2026 01:49:00 GMT",
+      "source": "xaydungchinhsach.chinhphu.vn",
+      "id": "7c64c917e3529379",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "lệ phí trước bạ",
+      "title": "Volkswagen hỗ trợ 100% lệ phí trước bạ cho nhiều mẫu xe trong tháng 9 - Tạp Chí Autonet",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZU0wZUhZZTAxMFRSc2VZQ083MmlHeUItSmpKYXZ2Zk12dURaaDdjNC13em42M09xZEVyNlM1eUlmMlZMUXhKMUNzRzF1LU5aYzNWQU13czM3dXpfcUhWUnB3blJONDVsU1VVR092RDVlSk5CdlQ4T1JrRDI2SHFzVnA3Y3dKSU5kcFUtclRzNDdyRkpHTjYw?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 08:01:00 GMT",
+      "source": "Tạp Chí Autonet",
+      "id": "7642f533342aba5e",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "lệ phí trước bạ",
+      "title": "Đánh giá xe Toyota Vios 2026: Chi tiết bảng giá lăn bánh và ưu đãi 100% lệ phí trước bạ - Báo Đà Nẵng",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR1JSNG9GTThEaDJUU0tNLXFqOWp6RnhsTlJ2eW5YbnR2Q0R3aGVGOThtVHREdnpIZ2RkQzZDQzRIWHlGNGNZMG5BZlhiOEFmb3hfN0RyQWlHVVo4QTdRc3NPbE5nSUhiV04tT09ELVFxb1QyWlRQYzNjVnBWc1BJWUhtWGw4RzUxaWpYZDF4ZUxpelc3ZjUyTzVfMEVqTGhYdlRwQkRsRVBuZWJ2azhGOWVyUEV1M3hxdi1R?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 05:46:57 GMT",
+      "source": "Báo Đà Nẵng",
+      "id": "edd117166f442b09",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "lệ phí trước bạ",
+      "title": "Honda City được hỗ trợ 100% lệ phí trước bạ và lãi suất 0% trong tháng 9 - autopress.vn",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOTIyRDgyVW5kS1lhdENHZ3hmMGNQN3A1WTFOcmkzZG1LTEhWMF9BcUFCVGx6ZFcyU0tGSUd4NDdkMHU4cDY4Zk5hYlJqdkxKdmVnMHllLTdYSkczZ3hEWFo1U3o0SkxWdm5Qb1d5LTdFSlMzRzdMUlRETnFsOWZRMmFETkFFWGFaekg2RVM5ak1xekpRSjk2d0FaUDE?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 04:30:00 GMT",
+      "source": "autopress.vn",
+      "id": "00aa35dd9651da36",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "lệ phí trước bạ",
+      "title": "Toyota Vios 2026: Chi tiết giá lăn bánh, ưu đãi 100% lệ phí trước bạ cùng gói TSS cải tiến - baohatinh.vn",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaWxuVUhDUkNwR1E4YTBpdFBmN0JUYWd4RFU5Ul9ZMnhQdERIcFk0UXpXMHJwdS1VdHRRRGs4WkRDRTRtMjFxckVaLU9tOEs1Y1hIMkNLR3VfUXY5MVAtZHhlZ2pXOEpaeWxhT0FRQkR2UFJqcC02NDk3R2FidHN6UW1Nb2ZHUU9PRmlxQjN1WE5RTmtlcW9FbmcyRlhZRUxNanVyMWZwRjVQQWxGNlBJZWVQdlhQaGUtZEpxYnp3TQ?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 05:48:03 GMT",
+      "source": "baohatinh.vn",
+      "id": "8fa1bfa1929cfe21",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "lệ phí trước bạ",
+      "title": "Honda hỗ trợ 100% lệ phí trước bạ cho City, BR-V, tặng 50 triệu đồng cho HR-V trong tháng 9 - Whatcar.vn",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeF9IdnROdDFpTDdhN1NTVk9mTFE3a3hBeVJWYlRhWlBVcXlhQ0dWRHBMLXZoVWtFVG5GSTJrOUtoa1Yydlk4WjlncW5pX2VzSEd5T1NFajBpeldPTWNONlJnUTJWZ1p5bnBRMHREY01zNlhfRzIwTWZScTd5djZfWmdiRWJzUDh3RS1JemxqQlBseVJBZHdfV1JsVHlmOG04d1AxRTlFTXZWRjhnOEtDOFFGUQ?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 06:05:12 GMT",
+      "source": "Whatcar.vn",
+      "id": "b55378199c8ad373",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "lệ phí trước bạ",
+      "title": "Hàng loạt ưu đãi được tung ra trên thị trường ôtô tháng 9 - Laodong.vn",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcDBramVyV3drRXQ1UlpObjFFWjNnQnc5NUVraHN5dHZhRmpXYTU5NDRqekZmT0QwazhzZkp6NDFORWlFMFZUdVRWUWlNeUVkaEhJazVCNDhvVVNXLWF4UXpMN0RLalg4RkJPUFB6YklDbS1qb2x0VnExSWJ2RjNNeXNPU2hGZmhSZWgxNFJwdHBQWFFqUHc?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 00:45:35 GMT",
+      "source": "Laodong.vn",
+      "id": "bcb28cef2cfb0b0d",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "lệ phí trước bạ",
+      "title": "Các hãng ô tô dốc sức vượt tháng Ngâu - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5THJmWTNJNzFlSGZzMzh6SHBDandialJubFVlX2hralZUeTJHU0F5UkRqT1JDMWJDMFpYaG5FTTdUNGlUSWxwSE56UERyNGVRbi1nWjVuS19TTC01dV9WcjdiMnJYLXFpMGNKTA?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 14:41:40 GMT",
+      "source": "Vietnam.vn",
+      "id": "b1c8c7751c47c144",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "lệ phí trước bạ",
+      "title": "Đánh giá chi tiết Toyota Vios 2026: Nâng cấp gói an toàn TSS và ưu đãi 100% phí trước bạ - Báo Lâm Đồng",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMkNFTzRsSFk3X29XWUlxZmtDYlFFTzV2S253aElZQ1FHc3F0N3pfUFlKT0N5dnlVUGtzbDcwWExzcTB2d1dUMExkeENsY0VkY0tBTmZuTDZIc2RuMzJUSXI0dXE0eGN2NllBUEJiTVYwUjdGYnctdlVIWjRObGc2c0VqajZ3TWhDanBuYlhqR0ZBZVIySlNKZlVfUmwyc0RlYTV6bnRJNUhuYWdLdUtNMFRoa1dXa0NSVEhFOQ?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 05:49:00 GMT",
+      "source": "Báo Lâm Đồng",
+      "id": "f562633e0b59dbb8",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "lệ phí trước bạ",
+      "title": "BYD tung chương trình ưu đãi lớn trong 120 ngày cuối năm - bnews.vn",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQblBFSFpNbWVtaFFrVnR4QmNDZjlnbEhiVjV5cTZOdWNqRnZIZnRIbmo1RThEYVNULUl0NGpYR3M2bVhtTHdHeGxxWGstV1NtdnJ5WGJkTk13dGljVDh3dFFoVmNja04xMEZrQjJIVE1OaXlEYndRcWRCakRsMFI0UnFTRmNld1RqUVAzc0JR?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 10:54:00 GMT",
+      "source": "bnews.vn",
+      "id": "400480a680cfc8e1",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "lệ phí trước bạ",
+      "title": "Trường hợp được miễn lệ phí trước bạ đối với nhà, đất theo quy định mới - Vietstock",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORHIzc0dGcTNlaEZaQkUzeXFBSmZTUFA5Yy1YSmlxUXVTWWtVbUdBMFpWOW1Sajh3NGRjbW9QNUlxMXNxMjZCbWFkTlJwYW82bjNLNjNnSy12dkVQSTVTT1V4RVMtdGQzSFFBbXdiU2p6LWR0bEJuLXhvYzlEQlB4T3JRRG1vb2VpUndleFAtRUNBUU9rMUluLVdlVERTZHdrckZHa0ZuWVh1YjNVbzIycGx4enFDTWs?oc=5",
+      "pub_date": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "source": "Vietstock",
+      "id": "311599a56623e6a3",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "lệ phí trước bạ",
+      "title": "Volkswagen Việt Nam giảm tới 100% lệ phí trước bạ trong tháng 9/2026 - Báo Tri thức và Cuộc sống",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMmZsQVltUzFnZm5lQld3ZENncmJ5QzFMbkFxRGZheFZ6WVAwV1JIWWhZdTNlbVVzQ3JnZ01LNjEzZk1TTExNa0xRVWhXWXFBbUF6YjloRWZiZ0FHZnA5Mk43TTdnTWVKOU82bmtSZ0hUeUZqTW9UYkNQSHZnaXo3dktldkhJNzRsS0c1U1ZLZ2V4T2VSNXNlNlk2V1dfc2d1VlgtZVY0Q1dsT28?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 05:42:46 GMT",
+      "source": "Báo Tri thức và Cuộc sống",
+      "id": "7229f2436fcd855b",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "lệ phí trước bạ",
+      "title": "120 ngày thần tốc: BYD Việt Nam xả ưu đãi khủng nhất năm - AutoBikes.vn",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNHBWR3ZyT1c3MlRGaWU1MjF0UVY3M0JaaGV2R1dVQ0xvdzhlZlNWemFram5BdnVnbUllQ0djckMtVVFCNVZQLTQyQmczSWRJZ2lUN2Q5dWVMN0M4VUFUalNhQm9BY0dKeUJlc1RtRGp1bTlLV0JtWm1JZVk0S01GVnltSndIS3p3a2xzNW5Md18?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 23:00:04 GMT",
+      "source": "AutoBikes.vn",
+      "id": "160cca83dd3852f5",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "lệ phí trước bạ",
+      "title": "Giá xe Toyota Vios tháng 9/2026, hỗ trợ 100% phí trước bạ - Tin tức 24h",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNajhnZ1BrdDlibVd6cjB4eXVSTXAtb0kwVlFpV0NRUDZSWUhnc0FmdXB2Y01tNGF0UDNOU2tGUTJ3c2N5OTZDOW5pMzRYMEloMndlVXZZMFpwTVZwb29JbEZoc0VRMnNzSExnemwzV2pxZkkyUkdWYWJjMmpRME1aZ2s3aTBxX2w3MVN2UWJWeVJJc1hrXzB5amF6OGJfZ3c0dGZz?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 05:47:54 GMT",
+      "source": "Tin tức 24h",
+      "id": "cc079789b9a9a6b7",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "lệ phí trước bạ",
+      "title": "Volkswagen tung ưu đãi tháng 9, nhiều mẫu xe được hỗ trợ 100% lệ phí trước bạ - xehay.vn",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaXBoZ3diSDdCZGszbnViS3RyRTVOVkFFdlBxNjdFSDAwazRGVzU2MF9GUGVIM2RzQVE1WXhKQ2ZZcXVWM3VoaWQxb3FHSldNZ3F5Ti02aFFrVjNaNUstc0lQbV9vYUozcF9STEFCc19YczNrMDlUWnM5WXBxenVQLTM1amJzbTc5SUFIUTdYdW5Bb0pjMUpKUm1GLThsQQ?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 07:58:17 GMT",
+      "source": "xehay.vn",
+      "id": "8e166c1cf09f1255",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "lệ phí trước bạ",
+      "title": "Honda tăng ưu đãi tháng 9, City và BR-V được hỗ trợ 100% lệ phí trước bạ - auto5.vn",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORUZZQ2Y3SE0xLVRXYkcxZVBadExyeHJMQzNkTkRZazFIN3pPVEdIcFJ5RXA3cU1LQjlkdDNyXzFObHRTaXZTbXJLVVpoV21lUy1vcDl2R1ppY184Qy05N3NScEVteW9vM0pyLW9pbGNpX0NLZF9ua1lPR0tfTXlXcmlBZlJMRmw5a212a1RlZXQxVnJJM2Q5T1FNQUJ0SEVOVnJjYVRZSQ?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 03:15:00 GMT",
+      "source": "auto5.vn",
+      "id": "b2e08b962f701b3a",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "lệ phí trước bạ",
+      "title": "Toyota giảm giá loạt xe hybrid trong tháng 9, nhiều nhất hơn 70 triệu đồng - Báo Dân trí",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNM3Jrc0IxWUhnS0RmTldqMFBtVWlTdzAxNGN2X3ViMENabFBOZ19icnhaWUItRFBHQ3JGMnVVbVozVjNualBRemlOZzRLZTJJZmtwY1R3ajVBT3JVWWp2aHlETXlOdzR0ekJiOGZfNWRvcVR2TlNyNS13X0M3YVl0bVU1SHhYckRHWnJWU01aSDMtTEtMM3hnQThOaXVoWHZHSjk0bGR5NEJGazlUOE1VRGM4cnRNNFh4NjJ6YWNLQWZUTEFycXNkNw?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 12:29:13 GMT",
+      "source": "Báo Dân trí",
+      "id": "13ad6d532bb1cefa",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "lệ phí trước bạ",
+      "title": "Đánh giá chi tiết MG ZS và giá lăn bánh tháng 8/2026: Ưu đãi lệ phí trước bạ 58 triệu đồng - Báo Lâm Đồng",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRlhTNW1SSERyNzVVRTNiUU9nWW53aHc5U3Z4c1JUT2t1dmZKbEJYRTZCOENjbjdxOUMya0RPXzIzN3dRWGlsYndyZWUtbWFMMVlIMFNnZmxlMFU0SmVkdGxTb3hwWHgtQ0hFT0lpRVFURGhFT3BySV9BZl9teUNhQjRlMC1BdUR6c2luRXN3ck02ck5FdVljNGZYSDFZdWs0NTR3dkUwd0Z6eU41NGVxYmJCNnJVdjVXTS1oTWRBdw?oc=5",
+      "pub_date": "Sat, 29 Aug 2026 03:16:32 GMT",
+      "source": "Báo Lâm Đồng",
+      "id": "f4e8c468dc9fe29c",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế nhà thầu nước ngoài",
+      "title": "Hướng dẫn thuế nhà thầu khi sử dụng dịch vụ của Tiktok - LuatVietnam",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdTZpX0QwaTliVXRoZHlvYmg4UFZad1F0bnVJclJtZ3JqTjVueGl1TjJlckt0YWtpWkRDUWVRYlpGbzJjTWV4Q2h1dEEzRUVBUjRUYmVyWFRWUUZTeUk5anZMS3R2bnozVHJrQ1BlSVVaalM3UENpbkFCZ29PcWFWVVV6eUNweGlhY1prdW40b0VMb0E5Z3pNVzRQb2N1UW13eGFCWFNQQW1nTUkwNlZnblVia1ozUG5YX3p0LUJVYV9RZEs0NWlRTzl0cjJXQWs?oc=5",
+      "pub_date": "Mon, 31 Aug 2026 07:18:05 GMT",
+      "source": "LuatVietnam",
+      "id": "8814ece618f24452",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế hộ kinh doanh",
+      "title": "'Cú hích' cho hộ kinh doanh chuyển lên doanh nghiệp - Báo Thanh Niên",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV0NzTTRFbllTd1hVM1I5U2lPVlBaTEZrZkFQSGU3M21QdTBhV2x6Rk5YSExiUFFlY256YTdVOEtiN3RNVG9WeU1GaklVeHYxdHFJQVpzak0tLW03aTdSMzlhdXFFMV8wY2Q4VDN2R1RTb29xYXBOS0FUS2lsRzZ5RzBIUnRWUTBIbDRtRHQ0WVlZMlRDUHBXRw?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 23:00:00 GMT",
+      "source": "Báo Thanh Niên",
+      "id": "9c0021667d92aa56",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế hộ kinh doanh",
+      "title": "Lập doanh nghiệp rồi 'bỏ quên' từ đợt dịch, không phát sinh hoạt động, nay đóng phạt hơn 34 triệu đồng để giải thể - Báo Tuổi Trẻ",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRnlhWS0xRGE3WmF6aW13amlxX3IwSVM4S3RWcC0yN3pHUjNma0VEN0NmQ2pEMFlDd21WNmhwdEg0M053MHpDZDZfV3ZwSGthRmI1NnFpbzVVcFZjSl9hUllRMVd4RkdmZE10RTB1S3QzQ0RJQ3ViUUs3ejc3VVg0bDAzTTBWUUVvUDFCSmo4VDdLOE5HdkJNR0EyYjQ5X1E5cU0xSlBQVjU1TzNGcERvWnNJWURnSVlNZWRjaVN5OUdiNzk4R2x4ZjV4M3N5YzJ0MG5lVExEbDRwcU5OSUNHWlo0czlEdw?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 08:42:00 GMT",
+      "source": "Báo Tuổi Trẻ",
+      "id": "0e5605414dbe89c7",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế hộ kinh doanh",
+      "title": "Hộ kinh doanh lưu ý những lỗi về thuế, hóa đơn để tránh bị phạt nặng - Báo Dân trí",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeElFUjY5ZUxRelJLYXRCN0I4dXhRZ3RUbER1blZScVJLV1lWZnQ4RVcxYjVuVW5lY2FsRzA5SWtrbkNBSXRmTmdONklBSktNVnR1WnFGNVZ6Q0tsYUpEZG5ZNjIxMjFoTDgwNzhreVM1dE12Rl9Gc2VsdmFDVGR1aE9jSG82d3VTS2RGUTZQQmg0YjdqcG5qQmN2N2x1VDFPSFg1YTRLUEY4dzIyUXRsampmaVRNaVNxTW1QbEU0WQ?oc=5",
+      "pub_date": "Wed, 02 Sep 2026 23:17:45 GMT",
+      "source": "Báo Dân trí",
+      "id": "fc46e1417eb8cd5c",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế hộ kinh doanh",
+      "title": "Những trường hợp sử dụng hóa đơn có thể bị xử phạt, hộ kinh doanh cần lưu ý - Laodong.vn",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQU2lOQ3NfNjRIaGh0OVFiQ0JVQWRBYkszRkRleVR5SU4xbU52Mng0WmhTdzZTMnBKdF9WbHgwSHNDSXFxSkp0NEdZZm92XzFtanBSMDhERFM0TnRhUUU3YUlqT1BkdndTSVVWUzNvb241TE84SnVWZGl1R0tvR1l4eTc5Nzc5LU5lM1c0SElVcHpxSmJDOEU0WnhiTVpOSExWbTdIODByaVdTOVA3dUh2ODNOTkd2d0E?oc=5",
+      "pub_date": "Wed, 02 Sep 2026 23:09:05 GMT",
+      "source": "Laodong.vn",
+      "id": "03fa7ece26069395",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế hộ kinh doanh",
+      "title": "Hộ kinh doanh vẫn thấp thỏm lo bị truy thu - Báo Thanh Niên",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX3hTQ2FNbWJWdEJOV3hnNGNRdXZpdTFPRXVzRmNlNjFlZXBpUW1fcm83S0ZDY20zYTVYcUFERFVYS2xwekxQMjFrVWVwSTJOZENad01qQjZDNUgwMjFVd2F1YktnWHRxd2g0UUExbmRuTTc1dWdwZFlncGJpdURNa1pWNjI0eGZ4UHRXeXRlWQ?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 21:25:39 GMT",
+      "source": "Báo Thanh Niên",
+      "id": "968d2342163161b0",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế hộ kinh doanh",
+      "title": "Khai sai, trốn thuế: Hộ kinh doanh có thể bị phạt tới 3 lần số tiền thuế trốn - thuonghieucongluan.com.vn",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY2RtM2Y5ZldXczY0dmhLdnZlWDZQdTlFYU4yRXhpNjZDUUNsd0lSaE9leGp6NXlWUjNQSXJyd3k3bDJnUUdOS3Vkdmd6cE5GeHNzblI2SmppNlhyRkRXZEpNMUpUbXJGMmlRN1BoRm1wZmQ0dE43UkI0YjFneVdyRkdSZ1VteTNsWW9RWW50Uk9LcjVpX01EcmE2ZEktR1JyMXF5T2g2WTF0eEVCNEVrVjN4Mmw2X3ZrMmp3UFBsYw?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 02:22:00 GMT",
+      "source": "thuonghieucongluan.com.vn",
+      "id": "217a97a6588e2e44",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế hộ kinh doanh",
+      "title": "Nghiên cứu cơ chế tháo gỡ cho doanh nghiệp, hộ kinh doanh “mắc kẹt” mã số thuế - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVXBianVGdER1eDlRazVpMjV3OE9oZGdXcWo0b0pQZFEzLUF5VXZVVU1JaklwaUNfNlFmWWQ0RkNick1uZlZIREwyVTVCNGdKVFEyVWpoQVMwQWswbHNOcjBOSGhyOTF5MGY2d2I1NV9mbFN6dllIaWhPVjE1S05HTXVUeTBKcGZhYklwckJRNVA0Nk1pT3ViNk9KRHFjZ0E?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 10:12:25 GMT",
+      "source": "Vietnam.vn",
+      "id": "fd9582ccdf0ab366",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế hộ kinh doanh",
+      "title": "Những quy định về thuế hộ kinh doanh cần biết để tránh bị phạt - congdankhuyenhoc.vn",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZlJvYW9JSjNIT3FBbUNwVFpBOFBRaW5Od0Y4SnR3Zk9CSG0xLVRMbmtzWmhpaVJFMGxxQnZpaW1Xa2pOTUNJVmlKOUU0Nm40ZnVYX1h3TGZ6SXo3RlFKR1JMMVNFaEZWY2hpSkdOcTV3cGRySnVyWHFxOEJlVzNzTGJTY0pIZHVucEZERzdUWGNqLXFUQVI5THVTYTlndl9vY3l5ZHRWWG8wdy1KQzU1QTBXYw?oc=5",
+      "pub_date": "Thu, 03 Sep 2026 04:46:00 GMT",
+      "source": "congdankhuyenhoc.vn",
+      "id": "6fed55a6a24b773d",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế hộ kinh doanh",
+      "title": "Hộ kinh doanh đang nộp thuế theo thu nhập được chuyển tạm nộp theo doanh thu - Báo Thanh Niên",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSkU2amxPSUxGdDB6OUhEOUFNNl9wQmltNUlkZDBuLWo3U3pqNnhlbUoycHROZEtxMXBiUDNxdUZXVFlQWV9UTkcyRDJmQk9pVkNIR0tEQThlUGw0SmlQbVg4b29pcTZEYUJIRjdaMGZnaWV6RFZaRHJucU56SkZ2djctVEVhc0x1cmZBbVF0Q2JGOGhvb2txMTVlZ29rbXVOeGZWYTBjNm9DRjNWcll4SWNjMU93cUF6Wkhfbg?oc=5",
+      "pub_date": "Fri, 28 Aug 2026 04:46:00 GMT",
+      "source": "Báo Thanh Niên",
+      "id": "2fab2a3a38ef3e5b",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế hộ kinh doanh",
+      "title": "2 năm có 3 luật, 5 nghị định, 7 thông tư về thuế: Hộ kinh doanh bối rối, lo sai, sợ bị phạt - Báo Tuổi Trẻ",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTUltMVhiaFk5NFEzSWVXNzM1blVSbC1jRl8zMEswX0hZdHNydGRmZER2czh5WFVtVXM0Uk9QY3ZhbmxMZ0xaX1g4VTFyaDhPaEdMdWgxTTRDRVFJdk9ESng4a1lWWkRoeGpEdnNFdHBKMnRPelR5MTBBZjVYLVU2NkRjeGxJNnRiaF9va3F2OEl3WnJIX3Q2UkJ6aWppcVNUQUNJZ2VQVml0TllJTFJ6ODZ4TTE3SjA1OTM2WTdFMHZEU1J2RTdV?oc=5",
+      "pub_date": "Thu, 27 Aug 2026 03:20:00 GMT",
+      "source": "Báo Tuổi Trẻ",
+      "id": "93e9acc0ad003a16",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế hộ kinh doanh",
+      "title": "Cục Thuế nói về giải pháp gỡ vướng đóng mã số thuế - Báo Tuổi Trẻ",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaUJLLXA4MkhBQW1Udmh0UjBRSXF5NXJCbWRCTWhoN05YZWwtLWY0NndQcFkwcWEzb0hiSG5fVjZUNlRiVnI4d1VHN3NLWDZvV1FwakUzNVFYSkxROV9waG1BWG5xazU5WjBycm1QTjJucVdtZWdlRUhQNVBkdHhRTTV2cHhvLU40M2c4WktBR3pORm5pc21R?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 12:29:00 GMT",
+      "source": "Báo Tuổi Trẻ",
+      "id": "95f1c947b4d0232e",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế hộ kinh doanh",
+      "title": "Đề xuất hộ kinh doanh chuyển lên công ty không cần chủ tịch, kế toán trưởng - VnExpress",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcUZhY0ZtT0Itd3YtOGJwWnhmWHZFRHZDb18xTlFVcVpkRXp0Tml0TGk3dXE4RXpKV19sbnFDTi1valQ5WmlmUm11eDA1dS1HU3ozREYxSnFSVFUtUEVWM0RNS3htcEJLeVJrakVyeGZYTnZzNXVTeWtJazhpNEdUSE9zbzljQXhlaFBScDJPLWszSVJ5LUItUUpHclZneWtLU0dxUDdVWTgzWTBpX2c?oc=5",
+      "pub_date": "Fri, 28 Aug 2026 03:45:09 GMT",
+      "source": "VnExpress",
+      "id": "e1f28e1f66188052",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế hộ kinh doanh",
+      "title": "Bán gói snack vài ngàn đồng: Thuế bắt xuất hóa đơn, nhưng người mua không nhận, có nghịch lý? - Báo Tuổi Trẻ",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdDR3MnlscC1LWm5QRGtmMGFabnZRN1JWUm9sSG9ScU42M210Y3gteHVfR0VpQ1FSN0JiSEJQbU5sWnMyX2ZjVGU0TC1kdXRkdEtINE9xblcwWTRFbTdONFprWlVmdHk0a01jQkktQzhjcDRhUkVTTm5WTl94bGp4ZFhXWGFjZGQ3NkRmaE5CbjJZRnB5OXp3ODFnTzhaNG84bE5ubFlST1ZUek9SR252MGpTek05SE5INFRobUpoaW1OcVh2Q2g5YnhhTQ?oc=5",
+      "pub_date": "Wed, 02 Sep 2026 06:05:00 GMT",
+      "source": "Báo Tuổi Trẻ",
+      "id": "cd0a7f20f0d688c0",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế hộ kinh doanh",
+      "title": "Hộ kinh doanh doanh thu dưới 10 tỷ đồng/năm được hướng dẫn tạm nộp thuế theo doanh thu - docnhanh.vn",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNY0V2Yi1VcDRiNVJVdmdVLVpnU242RjdkeGFOSHI2ekRBd3Zac2RSdXBOZWJQaFpNeGlGQUt3WS1xRU5sRlliaTBTdmNzOGg2VVhSLUtfR2tRMWQ0NUNfSGo2YnFBaEpmYng5SzZiMFBxQ3hzVEZRRmVNdURGTWJTM1BDbkZETTBRaDV3T0lXckFsN3UydC1ZUjd5aEdBSHpEN3M1T1BQcGdQNmpXQmpnb2RZVXU3UlFVYm9sTGZ6MmxUWXlWM1E?oc=5",
+      "pub_date": "Mon, 31 Aug 2026 15:18:13 GMT",
+      "source": "docnhanh.vn",
+      "id": "a879aad18f75233e",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế hộ kinh doanh",
+      "title": "Ngưỡng doanh thu 10 tỷ: Đề xuất hộ kinh doanh được nộp thuế trên doanh thu - VietnamFinance",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRVRZSV9PNzNfb3RJMHdIenhBU0FEQTc4VU4zYnUtV1hQZGVSSm9RRC1PREI0UGpkTmlSenpMTUw3dWQ5SnFmTy1QUkpwMDVWRU5HNWl6Q1V6bzdPMWZ0eEJhaU9GSk53WGlHRjlTQUVmWlkxMFlHVGFKbWhDT25zRWlmZVFId1ZvbTQtUHhmdkFETWcwWVQwNUl3dnRlN1AyTWNpb29yMFQtMmdwTlVsYU1R?oc=5",
+      "pub_date": "Sat, 29 Aug 2026 01:15:00 GMT",
+      "source": "VietnamFinance",
+      "id": "466288ded230e000",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế hộ kinh doanh",
+      "title": "Làm sạch mã số thuế, gỡ vướng kinh doanh - giadinhvaphapluat.vn",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzlqWlRfalB2WGVnMHRPSjlhQUpkbVZmVWJsVlEtZFpVaXVYa3FtbW8xM3RHVjRzZG5hNDVJVy16WU1sQU93NEJSM1p2STg3c3kxRzdnU2VwajlEc1dUUHZnSE9GX0xpcW5fMnBDU3BQTUZHUHNibDU4QVZJY2tZdjhCUDZoOXQ4?oc=5",
+      "pub_date": "Fri, 04 Sep 2026 00:55:00 GMT",
+      "source": "giadinhvaphapluat.vn",
+      "id": "14f84abeb744eac2",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế hộ kinh doanh",
+      "title": "Giảm 30% thuế: Tạo động lực để khu vực kinh doanh nhỏ lớn lên - Tạp chí Kinh tế - Tài chính Online",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdmtSeUQ5amZwd0tURHZQNGFzcTJnNlZvTHJkTDJpWW5iWVhQWGotQjhBaVlBamhYdVhRUzVETWJ6TkZCeHZFcENVNnNhaVVrXy1ISXNzMVMzM2xhR05rRHJVbVlCSDJhbkc2cWc5UlRXaG9Yd3BIdWdfQkZlalZYTGROSXdVY2NJQTJtNW5ZaDJQcHRVRDlURTY2QWphSEo2aDVHbWF3?oc=5",
+      "pub_date": "Fri, 28 Aug 2026 00:00:06 GMT",
+      "source": "Tạp chí Kinh tế - Tài chính Online",
+      "id": "fa513607c672025e",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế hộ kinh doanh",
+      "title": "Giảm 30% thuế giúp hộ kinh doanh tăng sức bật, hỗ trợ sức mua trong nước - Tạp chí Doanh nghiệp và Hội nhập",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbHBaUkpnd3Ytak1WNk83ZVNUU2o1Q3NqeFB3Q05BakhaZVhQM1dDUGhOd0xxQzVDalBjNVBvbW1UdlozY1ZGaEZMRFdBbnB2bUlhbzh5YUthZVdlMVdUc2wySnFTXy1Pd3M5UURkYTNuUzE4T1NoTFE1M0lhRzhjMjhIMmJCY1NZWDc3TmhIVjVmV2RHMEVTTHVhMnRiVTZHaFNwUDlTc1MtX00zRkJHbUFR?oc=5",
+      "pub_date": "Thu, 27 Aug 2026 07:02:13 GMT",
+      "source": "Tạp chí Doanh nghiệp và Hội nhập",
+      "id": "81e0451f093a52be",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế hộ kinh doanh",
+      "title": "Giảm thuế tiếp sức cho hộ kinh doanh và doanh nghiệp, hỗ trợ mục tiêu tăng trưởng kinh tế - Tạp chí Kinh tế - Tài chính Online",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeXg3ZGRxWVVqNnA3SHZ2S1pzWnlhbDJFdkxJZHUycjlnYU9vWDVEVUlMS0J2cG50ZC1pT0h2R0hLaXU4eVVsaVZYZW01MXVxMFZfTTl5Wnp5MnFEQmtxUTl2eEZBeXpZMzBDaTlIS3RkekowY0gwdVJsanpJSmJSU1hCSWpNd0NnMHFiRnJ2dFRkdTVVTk5VcWhfSEwzTGFaMjRRNVMwYWJrRUpFVTlURW5tRnI2RnEzbXA3X1lkcHQ3aUF2eExBeHIzbW8?oc=5",
+      "pub_date": "Fri, 28 Aug 2026 00:00:39 GMT",
+      "source": "Tạp chí Kinh tế - Tài chính Online",
+      "id": "3ef5bf83311ab88f",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế hộ kinh doanh",
+      "title": "Giảm thuế 30% để tiếp thêm nguồn lực cho hộ kinh doanh và hỗ trợ tiêu dùng - Báo Bắc Ninh",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWDJ4dGozdHBkci1pTWVXMm05ckFzdk1CZ0FBem1jUVpQbHZ4ZTExY3RCd2VNOWExdEtwYXR6cXNYWUY3ZEQzZGZrNWxocGxPeWxtcnVESWVrUTNKWEhQYmlvdm1JcUxjSlRRRmVybXc2cnhZVTVtTURyeUJkT2NJVG5EQW52eDZadGFyOVdnZ3lGWk1lOGN0YU9VRnVKSl9zNkhv?oc=5",
+      "pub_date": "Wed, 26 Aug 2026 22:09:43 GMT",
+      "source": "Báo Bắc Ninh",
+      "id": "0ec46a7f57487209",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế hộ kinh doanh",
+      "title": "[VIDEO] Chính phủ đề xuất giảm 30% thuế hộ kinh doanh, doanh nghiệp nhỏ - Báo Tri thức và Cuộc sống",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQemRKblM0Y2hUeHdVSXVnNDVJd29sZ3dMQkxXS0ZuUmxmQTZTWU1IUUs4ckxxSE5kcm9iRFdkWHZjdWVPdEhtRWFWbW9yRUwyZ3R6Qk9POXk4QWk5ei02b3IxYW9iY2FxTlJiZ1c4OFlNdzZQNU5lTWZkREhlVHR6ZnFxWm1ST0wzN1dPZFBJdnA4U1lSbDRMM2kzcDBjZ3MybktxbVluZ3FqZEtv?oc=5",
+      "pub_date": "Sun, 30 Aug 2026 10:00:00 GMT",
+      "source": "Báo Tri thức và Cuộc sống",
+      "id": "bf4496e336a954cf",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế hộ kinh doanh",
+      "title": "Lợi dụng thuế khoán, cơ sở kinh doanh khóa quy mô lớn trốn thuế - Báo Công Luận",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUkRIT2JGUzJuRjVqQ0FBTFpCOEM4dGtESzNnMGZmU0wtd05vXzhsMDRmZExLS3hnaTZORHViTXlkWEIzeU9xTDdJaGRUTkRfN0dvNUFWTkZ4Z2VKUnlDcG9PSjQ5V2JxTUJ3S0dMdk9YQVRnUDFwNDZfUDNLYjQzN255ZGtQdF9YWEJvUVptMDhWQVlSdXE0NTZYeG9sUW8?oc=5",
+      "pub_date": "Sun, 30 Aug 2026 11:10:31 GMT",
+      "source": "Báo Công Luận",
+      "id": "b18d9d30aa13d516",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế chuyển nhượng bất động sản",
+      "title": "Thuế Hà Nội hướng dẫn thủ tục thuế đối với cá nhân chuyển nhượng bất động sản - CafeF",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaGZDWHNxdV9zSlpSVnpzVUkteXkyNTlmMTlMd2ZZYklMcTVEYUhvSG1sSHV4elNhZWxYUUpIUEN6eGFvT2F0TS1zeDd2cWU3SXJuNC1EWkpWQTdjYkZibFI3Mkl5TEF3bzVhT2JTdV9mTVd1bEs4WWhuZnNMNl9YNzh6V21XOGZWNnZCa1A0Mkdud2dGb0ZwX2hpMGRqbVZRYkJpRzVaVVRyMFNYNm5fbDRmdVZjXzJO?oc=5",
+      "pub_date": "Thu, 27 Aug 2026 11:54:00 GMT",
+      "source": "CafeF",
+      "id": "f4a457dc1f93ef14",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế chuyển nhượng bất động sản",
+      "title": "Thuế chuyển nhượng bất động sản năm 2026 được tính như thế nào theo quy định mới nhất? - Gia đình & Xã hội",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSDZiemU3VWZlN2ctdnluNkV6a0lhQ1FHb2VmSVdwWVVZS3RBdWhIQ0NwcmdkQUMzR3ZTMDJEMlIzUW1FZGF5WndickUzWFVma0dFTENxUk9sRFlmMHhCNmdaZUx0d0xuTDN1S0xDVHdLeXVmX1JZTzlZaVNRSUItWlVOSWJxeHNrM0g3bW1hdWtjR2Y1TzVnV01GcGVMaW5zM3NKU0pGSk5sMFBlTHNzSjkwZDh3X1lTS1pHaElGRnhRZjUwcTJ5ZDk0WHZVS1JoczV6MGEwNWRXdw?oc=5",
+      "pub_date": "Wed, 26 Aug 2026 09:53:00 GMT",
+      "source": "Gia đình & Xã hội",
+      "id": "11aa801e54f5c029",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    },
+    {
+      "keyword": "thuế chuyển nhượng bất động sản",
+      "title": "Những trường hợp bán nhà đất được miễn thuế - Tạp chí Kinh tế chứng khoán Việt Nam",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5NjZLWDctQ0plT0w3N2RjWGpkZ2FOaFdiTzFveEhZUkxDcXZ0bEVBVnRWQ1h1aG41TlRJd3RmTE5YYWU5eEhyZzBZS2JxeEhpSGxvSjlldHpUUllsX2pEQkktZE05VVE5cjJaSUpWWU5yYnBJUk5EQm8tbw?oc=5",
+      "pub_date": "Thu, 27 Aug 2026 07:00:00 GMT",
+      "source": "Tạp chí Kinh tế chứng khoán Việt Nam",
+      "id": "625707f0e047a536",
+      "found_at": "2026-09-05T00:35:16.096582+00:00"
+    }
+  ],
+  "last_run": "2026-09-05T00:35:16.096582+00:00"
 }
